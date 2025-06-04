@@ -64,22 +64,22 @@
 
 ---
 
-## 🎯 Actualmente en...
+## 🎯 Recently...
 
-- 🤖 Desarrollando proyectos en IA y automatización
-- 📡 Aplicando electrónica en entornos reales
-- 🧠 Profundizando en aprendizaje automático y redes neuronales
+- 🤖 Developing projects about FSMs, Lexers and Parsers, Distributed and Parallel Computing
+- 👾 Participating in Programming Competitions
+- 🧠 Digging deeper into image processing, Neural Networks, AI and ML
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🌐 Connecting with me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshlopez1030/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Josh%20L%C3%B3pez-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:joshlopez1030@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-joshlopez1030@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:joshlopezmurcia@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-joshlopezmurcia@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -87,8 +87,8 @@
 
 ## ✨ Frase que me inspira
 
-> *"La tecnología no es nada. Lo importante es que tengas fe en la gente, que son básicamente buenas e inteligentes, y si les das herramientas, harán cosas maravillosas con ellas."*  
-> — **Steve Jobs**
+> *"See the world, face dangers, break through walls, reach out to others, find yourself, and feel. That's the purpose of life."*  
+> — **From The Secret Life of Walter Mitty**
 
 ---
 
