@@ -1,4 +1,8 @@
-<h1 align="center">👋 ¡Hola, soy Josh Sebastián!</h1>
+<h1 align="center">👋 Hello there... 🤠 I’m <span style="color:#00E0FF">C4PT4IN CH405 🤯</span></h1>
+
+<p align="center">
+  <em>Also known as – 😎 The Secret Code 😎</em>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero+Electrónico+%F0%9F%94%8C;Apasionado+por+la+IA+%F0%9F%A7%AB;Fan+del+IoT%2C+la+rob%C3%B3tica+y+la+automatizaci%C3%B3n%F0%9F%9A%80;&center=true&width=450&height=45&color=4A90E2&vCenter=true&size=22" />
