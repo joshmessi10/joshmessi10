@@ -64,23 +64,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=joshlopez1030&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshlopez1030&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-## 🔥 Racha de contribuciones
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshlopez1030&theme=highcontrast" />
-</p>
-
----
-
 ## 🎯 Actualmente en...
 
 - 🤖 Desarrollando proyectos en IA y automatización
