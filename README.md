@@ -10,13 +10,14 @@
 
 ---
 
-## 🌟 Sobre mí
+## 🧠 About Me
 
-🎓 **Ingeniero Electrónico**  
-💡 Apasionado por la tecnología, la automatización y los sistemas inteligentes  
-📚 Actualmente estudiando **Ciencias de la Computación e Inteligencia Artificial**  
-🌐 Experiencia en **telecomunicaciones** con empresas como **AXESS Networks**  
-🛠️ Explorador de nuevas fronteras como **IoT, robótica e IA**
+🎓 I'm an **Electronic Engineer** with a deep curiosity for how things work at both the hardware and software levels.  
+💻 Currently a **Computer Science & Artificial Intelligence Student**, constantly learning and building intelligent systems.  
+❤️ A passionate **programming enthusiast**, always looking to turn code into creative and impactful solutions.  
+🤖 Fascinated by the world of **Robotics**, **IoT**, and **Computer Vision** — where machines begin to perceive and act.  
+🛡️ Keenly interested in **Cybersecurity**, **Data Science**, and **Cloud Computing**, exploring the frontiers of digital transformation.
+
 
 ---
 
