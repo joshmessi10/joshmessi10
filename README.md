@@ -26,6 +26,21 @@
 
 ---
 
+## 📌 Featured Projects
+
+A showcase of some of my most exciting and hands-on repositories. Click to explore or try the live demos!
+
+---
+
+### Finite State Machines
+
+[![FromZero](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=FromZero&theme=radical)](https://github.com/joshmessi10/FromZero)
+
+> 🚀 A project from scratch to showcase HTML, CSS, and JavaScript fundamentals.  
+> 👉 **[Try it live here](https://joshmessi10.github.io/FromZero/)**
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### 🖥️ Programming Languages  
