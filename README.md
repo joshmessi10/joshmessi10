@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there! I’m... <span style="color:#00E0FF">C4PT4IN CH405 🤯</span></h1>
+<h1 align="center">👋 Hello there! I’m <span style="color:#00E0FF">C4PT4IN CH405 🤯</span></h1>
 
 <p align="center">
   <em>👾 Also known as – The Secret Code 👾</em>
