@@ -17,7 +17,6 @@
 💻 Currently a **Computer Science & Artificial Intelligence Student**, constantly learning and building intelligent systems.  
 ❤️ A passionate **programming enthusiast**, always looking to turn code into creative and impactful solutions.  
 🤖 Fascinated by the world of **Robotics**, **IoT**, and **Computer Vision**.
-
 🛡️ Keenly interested in **Cybersecurity**, **Data Science**, and **Cloud Computing**, exploring the frontiers of digital transformation.
 
 
