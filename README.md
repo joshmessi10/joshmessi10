@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero+Electrónico+%F0%9F%94%8C;Apasionado+por+la+IA+%F0%9F%A7%AB;Fan+del+IoT%2C+la+rob%C3%B3tica+y+la+automatizaci%C3%B3n%F0%9F%9A%80;&center=true&width=450&height=45&color=4A90E2&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=Electronic+Engineer+%F0%9F%94%8C;AI+and+Computer+Science+Explorer+%F0%9F%A7%AB;IoT%2C+Robotics+%26+Automation+Fan+%F0%9F%9A%80;Cybersecurity+%7C+Cloud+%7C+Data+Science+Curious+%F0%9F%94%91" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -15,7 +16,7 @@
 🎓 I'm an **Electronic Engineer** with a deep curiosity for how things work at both the hardware and software levels.  
 💻 Currently a **Computer Science & Artificial Intelligence Student**, constantly learning and building intelligent systems.  
 ❤️ A passionate **programming enthusiast**, always looking to turn code into creative and impactful solutions.  
-🤖 Fascinated by the world of **Robotics**, **IoT**, and **Computer Vision** — where machines begin to perceive and act.  
+🤖 Fascinated by the world of **Robotics**, **IoT**, and **Computer Vision** 
 🛡️ Keenly interested in **Cybersecurity**, **Data Science**, and **Cloud Computing**, exploring the frontiers of digital transformation.
 
 
