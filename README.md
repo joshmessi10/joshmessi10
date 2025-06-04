@@ -72,6 +72,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C4PT4INCH405&theme=tokyo-night" />
+</p>
+---
+
+
 ## 🌐 Connecting with me:
 
 <p align="center">
@@ -85,13 +91,8 @@
 
 ---
 
-## ✨ Frase que me inspira
+## ✨ 
 
 > *"See the world, face dangers, break through walls, reach out to others, find yourself, and feel. That's the purpose of life."*  
 > — **From The Secret Life of Walter Mitty**
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px">
-</p>
