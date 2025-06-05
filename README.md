@@ -49,6 +49,15 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ---
 
+### Dijkstra Pathfinding & Graph Tools Web App
+
+[![Dijkstra Web App](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Dijkstra-Web&theme=radical)](https://github.com/joshmessi10/Dijkstra-Web)
+
+> 🚀 An interactive web app for visualizing **Dijkstra’s Algorithm**, **Critical Path Analysis**, and displaying **Adjacency** & **Incidence Matrices** of graphs.  
+> 👉 **[Try it live here](https://joshmessi10.github.io/Dijkstra-Web/)**
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### 🖥️ Programming Languages  
