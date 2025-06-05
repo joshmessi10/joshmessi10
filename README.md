@@ -102,7 +102,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ## 🎯 Recently...
 
-- 🤖 Developing projects about FSMs, Lexers and Parsers, Distributed and Parallel Computing
+- 🤖 Developing web apps & projects about FSMs, Lexers and Parsers, Distributed and Parallel Computing
 - 👾 Participating in Programming Competitions
 - 🧠 Digging deeper into image processing, Neural Networks, AI and ML
 
