@@ -59,7 +59,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### Programming Marathon Training
 
-[![PROJECT-TR1N1TY](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=PROJECT-TR1N1TY&theme=radical)](https://github.com/joshmessi10/PROJECT-TR1N1TY)
+[![PROJECT-TR1N1TY](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=PROJECT-TR1N1TY&theme=radical&cache_bust=1)](https://github.com/joshmessi10/PROJECT-TR1N1TY)
 
 > 🧠 A curated repository of algorithmic challenges from **HackerRank** and **LeetCode**, crafted to strengthen problem-solving skills and prepare for **coding competitions** and **technical interviews**.
 
