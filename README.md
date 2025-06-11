@@ -39,6 +39,15 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ---
 
+### MiniSumo Robot
+
+[![MiniSumo](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=MiniSumo&theme=radical)](https://github.com/joshmessi10/MiniSumo)
+
+> 🤼‍♂️ An autonomous MiniSumo robot designed for competitive sumo matches.  
+> 🧠 Implements a Finite State Machine with multi-strategy behavior and real-time sensor-based decision making.
+
+---
+
 ### Finite State Machines (FSM)
 
 [![FromZero](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=FromZero&theme=radical&cache_bust=1)](https://github.com/joshmessi10/FromZero)
