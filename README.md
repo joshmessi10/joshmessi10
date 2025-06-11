@@ -48,6 +48,15 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ---
 
+### Self-Balancing Robot
+
+[![SelfBalancingRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=SelfBalancingRobot&theme=radical)](https://github.com/joshmessi10/SelfBalancingRobot)
+
+> 🤖 A two-wheeled self-balancing robot using MPU6050 and PID control with Arduino UNO.  
+> 📡 Supports real-time balance adjustment and Bluetooth-based movement commands.
+
+---
+
 ### Finite State Machines (FSM)
 
 [![FromZero](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=FromZero&theme=radical&cache_bust=1)](https://github.com/joshmessi10/FromZero)
