@@ -32,7 +32,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### Line-Following Robot
 
-[![LineFollowingRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=LineFollowingRobot&theme=radical)](https://github.com/joshmessi10/LineFollowingRobot)
+[![LineFollowingRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=LineFollowingRobot&theme=tokyonight&cache_bust=1)](https://github.com/joshmessi10/LineFollowingRobot)
 
 > 🤖 An embedded robotics project using STM32 to autonomously follow a line.  
 > 🎛️ Features real-time sensor calibration and monitoring via a Qt GUI.
@@ -41,7 +41,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### MiniSumo Robot
 
-[![MiniSumo](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=MiniSumo&theme=radical)](https://github.com/joshmessi10/MiniSumo)
+[![MiniSumo](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=MiniSumo&theme=tokyonight&cache_bust=1)](https://github.com/joshmessi10/MiniSumo)
 
 > 🤼‍♂️ An autonomous MiniSumo robot designed for competitive sumo matches.  
 > 🧠 Implements a Finite State Machine with multi-strategy behavior and real-time sensor-based decision making.
@@ -50,7 +50,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### Self-Balancing Robot
 
-[![SelfBalancingRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=SelfBalancingRobot&theme=radical)](https://github.com/joshmessi10/SelfBalancingRobot)
+[![SelfBalancingRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=SelfBalancingRobot&theme=tokyonight&cache_bust=1)](https://github.com/joshmessi10/SelfBalancingRobot)
 
 > 🤖 A two-wheeled self-balancing robot using MPU6050 and PID control with Arduino UNO.  
 > 📡 Supports real-time balance adjustment and Bluetooth-based movement commands.
@@ -68,7 +68,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### Dijkstra Pathfinding & Graph Tools Web App
 
-[![Dijkstra Web App](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Dijkstra-Web&theme=radical)](https://github.com/joshmessi10/Dijkstra-Web)
+[![Dijkstra Web App](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Dijkstra-Web&theme=radical&cache_bust=1)](https://github.com/joshmessi10/Dijkstra-Web)
 
 > 🚀 An interactive web app for visualizing **Dijkstra’s Algorithm**, **Critical Path Analysis**, and displaying **Adjacency** & **Incidence Matrices** of graphs.  
 > 👉 **[Try it live here](https://joshmessi10.github.io/Dijkstra-Web/)**
@@ -77,7 +77,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### Programming Marathon Training
 
-[![PROJECT-TR1N1TY](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=PROJECT-TR1N1TY&theme=radical&cache_bust=1)](https://github.com/joshmessi10/PROJECT-TR1N1TY)
+[![PROJECT-TR1N1TY](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=PROJECT-TR1N1TY&theme=synthwave&cache_bust=1)](https://github.com/joshmessi10/PROJECT-TR1N1TY)
 
 > 🧠 A curated repository of algorithmic challenges from **HackerRank** and **LeetCode**, crafted to strengthen problem-solving skills and prepare for **coding competitions** and **technical interviews**.
 
