@@ -117,6 +117,26 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ---
 
+## 📄 Featured Publication
+
+**Josh López, Julián Lozada, Marco Terán, Ana Cediel, Maria Camila Tole**, *“An IoT System for Telemedicine Utilizing Electrocardiogram Technology”* (IEEE Conference/Journal), 2023 IEEE Colombian Conference on Communications and Computing (COLCOM).  
+[🔗 View on IEEE Xplore](https://ieeexplore.ieee.org/document/10334255)
+
+This paper presents the design and implementation of an Internet of Things (IoT)-based system for remote electro-cardiogram monitoring.
+
+---
+
+### 🧠 Abstract Highlights:
+
+- 📡 IoT-Based Monitoring: The system enables remote ECG acquisition and visualization through an Internet of Things (IoT) architecture.
+- 🫀 Signal Acquisition: ECG signals are captured using electrodes placed on the user’s limbs.
+- 🎛️ Signal Conditioning: The analog signals are amplified and filtered using instrumentation amplifiers and bandpass filters to ensure high-quality readings.
+- 🔁 Client-Server Communication: ECG data is transmitted using socket-based communication between an ESP32 and a Raspberry Pi.
+- 🌐 Real-Time Web Access: Data is forwarded to a central web server, allowing real-time analysis and visualization of ECG signals via a browser.
+- 👨‍⚕️ Remote Evaluation: Physicians can remotely monitor and assess patients' heart activity, overcoming geographic barriers.
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
