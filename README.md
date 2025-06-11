@@ -57,6 +57,15 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ---
 
+### Rover
+
+[![Rover](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Rover&theme=prussian&cache_bust=1)](https://github.com/joshmessi10/Rover)
+
+> 🤖 A smart six-wheeled rover entirely controlled by an **ESP32**, capable of both **manual control via Wi-Fi** and **autonomous navigation** using an **ultrasonic sensor** mounted on a servo.   
+> 📡 Additional support includes **PID balance control** and a **basic maze-solving algorithm**.
+
+---
+
 ### Finite State Machines (FSM)
 
 [![FromZero](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=FromZero&theme=radical&cache_bust=1)](https://github.com/joshmessi10/FromZero)
