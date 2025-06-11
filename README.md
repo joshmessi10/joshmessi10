@@ -41,7 +41,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### MiniSumo Robot
 
-[![MiniSumo](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=MiniSumo&theme=tokyonight&cache_bust=1)](https://github.com/joshmessi10/MiniSumo)
+[![MiniSumo](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=MiniSumo&theme=merko&cache_bust=1)](https://github.com/joshmessi10/MiniSumo)
 
 > 🤼‍♂️ An autonomous MiniSumo robot designed for competitive sumo matches.  
 > 🧠 Implements a Finite State Machine with multi-strategy behavior and real-time sensor-based decision making.
@@ -50,7 +50,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### Self-Balancing Robot
 
-[![SelfBalancingRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=SelfBalancingRobot&theme=tokyonight&cache_bust=1)](https://github.com/joshmessi10/SelfBalancingRobot)
+[![SelfBalancingRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=SelfBalancingRobot&theme=gruvbox&cache_bust=1)](https://github.com/joshmessi10/SelfBalancingRobot)
 
 > 🤖 A two-wheeled self-balancing robot using MPU6050 and PID control with Arduino UNO.  
 > 📡 Supports real-time balance adjustment and Bluetooth-based movement commands.
