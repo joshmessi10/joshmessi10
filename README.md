@@ -30,6 +30,13 @@
 
 A showcase of some of my most exciting and hands-on repositories. Click to explore or try the live demos!
 
+### Line-Following Robot
+
+[![LineFollowingRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=LineFollowingRobot&theme=radical)](https://github.com/joshmessi10/LineFollowingRobot)
+
+> 🤖 An embedded robotics project using STM32 to autonomously follow a line.  
+> 🎛️ Features real-time sensor calibration and monitoring via a Qt GUI.
+
 ---
 
 ### Finite State Machines (FSM)
@@ -41,20 +48,20 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ---
 
-### Programming Marathon Training
-
-[![PROJECT-TR1N1TY](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=PROJECT-TR1N1TY&theme=radical)](https://github.com/joshmessi10/PROJECT-TR1N1TY)
-
-> 🧠 A curated repository of algorithmic challenges from **HackerRank** and **LeetCode**, crafted to strengthen problem-solving skills and prepare for **coding competitions** and **technical interviews**.
-
----
-
 ### Dijkstra Pathfinding & Graph Tools Web App
 
 [![Dijkstra Web App](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Dijkstra-Web&theme=radical)](https://github.com/joshmessi10/Dijkstra-Web)
 
 > 🚀 An interactive web app for visualizing **Dijkstra’s Algorithm**, **Critical Path Analysis**, and displaying **Adjacency** & **Incidence Matrices** of graphs.  
 > 👉 **[Try it live here](https://joshmessi10.github.io/Dijkstra-Web/)**
+
+---
+
+### Programming Marathon Training
+
+[![PROJECT-TR1N1TY](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=PROJECT-TR1N1TY&theme=radical)](https://github.com/joshmessi10/PROJECT-TR1N1TY)
+
+> 🧠 A curated repository of algorithmic challenges from **HackerRank** and **LeetCode**, crafted to strengthen problem-solving skills and prepare for **coding competitions** and **technical interviews**.
 
 ---
 
