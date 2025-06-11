@@ -61,7 +61,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 [![FromZero](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=FromZero&theme=radical&cache_bust=1)](https://github.com/joshmessi10/FromZero)
 
-> 🚀 A project from scratch to showcase FSM using HTML, CSS, and JavaScript fundamentals.  
+> 🚀 A Claw Machine Simulator project from scratch to showcase FSM using HTML, CSS, and JavaScript fundamentals.  
 > 👉 **[Try it live here](https://joshmessi10.github.io/FromZero/)**
 
 ---
