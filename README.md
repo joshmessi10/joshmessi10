@@ -43,6 +43,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 [![Coin Detector](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=CoinDetector&theme=ambient_gradient&cache_bust=1)](https://github.com/joshmessi10/CoinDetector)
 
 > 📱 Android app that uses OpenCV to detect colombian coins of 50, 100, and 200 pesos in real time.
+> 
 > 📸 Calculates total value using the radius of detected coins and displays the result live on screen.
 
 ---
