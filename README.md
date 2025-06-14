@@ -71,7 +71,9 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 [![SmartWallet](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=SmartWallet&theme=blueberry&cache_bust=1)](https://github.com/joshmessi10/SmartWallet)
 
 > 📱 A full-featured smart wallet system combining hardware, firmware, mobile, and cloud technologies.
+
 > 🔐 Includes security features like anti-theft alerts, GPS location tracking, and BLE connectivity.
+
 > 🌐 Project website, firmware, and mobile app included in the repository.
 
 ---
@@ -116,6 +118,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 [![CleaningRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=CleaningRobotAgent&theme=rose_pine&cache_bust=1)](https://github.com/joshmessi10/CleaningRobotAgent)
 
 > 🤖 A Python-based simulation of a cleaning robot agent that navigates and collects debris (🍂) in a 2D grid.
+
 > 🔁 Includes two operational modes:
 - Without Memory – explores randomly with no knowledge of past moves.
 - With Memory – builds a map, avoids revisiting clean areas, and triggers deep-clean routines.
