@@ -32,16 +32,24 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### Line-Following Robot
 
-[![LineFollowingRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=LineFollowingRobot&theme=tokyonight&cache_bust=1)](https://github.com/joshmessi10/LineFollowingRobot)
+[![LineFollowingRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=LineFollowingRobot&theme=neon&cache_bust=1)](https://github.com/joshmessi10/LineFollowingRobot)
 
 > 🤖 An embedded robotics project using STM32 to autonomously follow a line.  
 > 🎛️ Features real-time sensor calibration and monitoring via a Qt GUI.
 
 ---
+### Coin Detector
+
+[![Coin Detector](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=CoinDetector&theme=ambient_gradient&cache_bust=1)](https://github.com/joshmessi10/CoinDetector)
+
+> 📱 Android app that uses OpenCV to detect colombian coins of 50, 100, and 200 pesos in real time.
+> 📸 Calculates total value using the radius of detected coins and displays the result live on screen.
+
+---
 
 ### MiniSumo Robot
 
-[![MiniSumo](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=MiniSumo&theme=merko&cache_bust=1)](https://github.com/joshmessi10/MiniSumo)
+[![MiniSumo](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=MiniSumo&theme=ocean_dark&cache_bust=1)](https://github.com/joshmessi10/MiniSumo)
 
 > 🤼‍♂️ An autonomous MiniSumo robot designed for competitive sumo matches.  
 > 🧠 Implements a Finite State Machine with multi-strategy behavior and real-time sensor-based decision making.
@@ -50,7 +58,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### Self-Balancing Robot
 
-[![SelfBalancingRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=SelfBalancingRobot&theme=gruvbox&cache_bust=1)](https://github.com/joshmessi10/SelfBalancingRobot)
+[![SelfBalancingRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=SelfBalancingRobot&theme=outrun&cache_bust=1)](https://github.com/joshmessi10/SelfBalancingRobot)
 
 > 🤖 A two-wheeled self-balancing robot using MPU6050 and PID control with Arduino UNO.  
 > 📡 Supports real-time balance adjustment and Bluetooth-based movement commands.
@@ -59,7 +67,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### Rover
 
-[![Rover](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Rover&theme=prussian&cache_bust=1)](https://github.com/joshmessi10/Rover)
+[![Rover](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Rover&theme=maroongold&cache_bust=1)](https://github.com/joshmessi10/Rover)
 
 > 🤖 A smart six-wheeled rover entirely controlled by an **ESP32**, capable of both **manual control via Wi-Fi** and **autonomous navigation** using an **ultrasonic sensor** mounted on a servo.   
 > 📡 Additional support includes **PID balance control** and a **basic maze-solving algorithm**.
@@ -86,7 +94,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### Programming Marathon Training
 
-[![PROJECT-TR1N1TY](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=PROJECT-TR1N1TY&theme=synthwave&cache_bust=1)](https://github.com/joshmessi10/PROJECT-TR1N1TY)
+[![PROJECT-TR1N1TY](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=PROJECT-TR1N1TY&theme=algolia&cache_bust=1)](https://github.com/joshmessi10/PROJECT-TR1N1TY)
 
 > 🧠 A curated repository of algorithmic challenges from **HackerRank** and **LeetCode**, crafted to strengthen problem-solving skills and prepare for **coding competitions** and **technical interviews**.
 
