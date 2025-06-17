@@ -113,6 +113,16 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ---
 
+### Python Lexer and Parser for Python
+
+[![Python-Lexical-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Python-Lexer-For-Python&theme=transparent&cache_bust=1)](https://github.com/joshmessi10/Python-Lexical-Analyzer)
+> 🧾 A Python-based **lexical analyzer** that reads source code and outputs a stream of tokens. It identifies Python keywords, operators, identifiers, and literals, and stores results in a structured `.txt` file.
+
+[![Python-Syntax-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Python-Parser-For-Python&theme=transparent&cache_bust=1)](https://github.com/joshmessi10/Python-Syntax-Analyzer)
+> 🧩 A **syntax analyzer (parser)** for Python that takes the token stream from a lexer and validates it against a predefined grammar. It detects syntax errors and reports them with clear line and column references.
+
+---
+
 # Cleaning Robot Agent
 
 [![CleaningRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=CleaningRobotAgent&theme=rose_pine&cache_bust=1)](https://github.com/joshmessi10/CleaningRobotAgent)
