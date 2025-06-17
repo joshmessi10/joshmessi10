@@ -105,6 +105,14 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ---
 
+### Safe Kitchen
+
+[![Safe Kitchen](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=SafeKitchen&theme=vue-dark&cache_bust=1)](https://github.com/joshmessi10/SafeKitchen)
+
+> 🧯 An **IoT-based smart alarm system** designed to prevent kitchen fires and gas leaks. It combines gas, flame, and temperature sensors with real-time dashboards (Node-RED & Ubidots), local data storage, and SMS alerts via Vonage, using **ESP32** and **Raspberry Pi** for edge-cloud integration.
+
+---
+
 ### Programming Marathon Training
 
 [![PROJECT-TR1N1TY](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=PROJECT-TR1N1TY&theme=algolia&cache_bust=1)](https://github.com/joshmessi10/PROJECT-TR1N1TY)
@@ -115,10 +123,10 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### Python Lexer and Parser for Python
 
-[![Python-Lexical-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Python-Lexer-For-Python&theme=transparent&cache_bust=1)](https://github.com/joshmessi10/Python-Lexical-Analyzer)
+[![Python-Lexical-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Python-Lexer-For-Python&theme=transparent&cache_bust=1)](https://github.com/joshmessi10/Python-Lexer-For-Python)
 > 🧾 A Python-based **lexical analyzer** that reads source code and outputs a stream of tokens. It identifies Python keywords, operators, identifiers, and literals, and stores results in a structured `.txt` file.
 
-[![Python-Syntax-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Python-Parser-For-Python&theme=transparent&cache_bust=1)](https://github.com/joshmessi10/Python-Syntax-Analyzer)
+[![Python-Syntax-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Python-Parser-For-Python&theme=transparent&cache_bust=1)](https://github.com/joshmessi10/Python-Parser-For-Python)
 > 🧩 A **syntax analyzer (parser)** for Python that takes the token stream from a lexer and validates it against a predefined grammar. It detects syntax errors and reports them with clear line and column references.
 
 ---
