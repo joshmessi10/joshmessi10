@@ -131,6 +131,19 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 [![Google Cloud Computing Foundations: Cloud Computing Fundamentals](https://img.shields.io/badge/Google%20Cloud%20Computing%20Foundations-Cloud%20Computing%20Fundamentals-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16451591)
 
+[![Google Cloud Computing Foundations: Infrastructure in Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Computing%20Foundations-Infrastructure%20in%20Google%20Cloud-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16453888)
+
+[![Google Cloud Computing Foundations: Networking and Security in Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Computing%20Foundations-Networking%20and%20Security%20in%20Google%20Cloud-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16499587)
+
+[![Google Cloud Computing Foundations: Data, ML and AI in Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Computing%20Foundations-Data,%20ML%20and%20AI%20in%20Google%20Cloud-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16501253)
+
+[![Implementing Load Balancing on Compute Engine](https://img.shields.io/badge/Implementing%20Load%20Balancing%20on%20Compute%20Engine-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16518091)
+
+[![Set Up an App Dev Environment on Google Cloud](https://img.shields.io/badge/SetUp%20an%20App%20Dev%20Environment%20on%20Google%20Cloud-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16518655)
+
+[![Prepare Data for ML APIs in Google Cloud](https://img.shields.io/badge/Prepare%20Data%20for%20ML%20APIs%20in%20Google%20Cloud-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16520274)
+
+[![Build a Secure Google Cloud Network](https://img.shields.io/badge/Build%20a%20Secure%20Google%20Cloud%20Network-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16521016)
 
 
 
