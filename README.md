@@ -125,6 +125,12 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 >⚡ Features energy management and a visual interface using ipywidgets.
 
 ---
+## 🛡️ Badges
+
+![google-cloud-computing-foundations-certificate](https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354)
+
+
+---
 
 ## 🛠️ Technologies & Tools
 
