@@ -145,6 +145,10 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 ---
 ## 🛡️ Badges & Certificates
 
+---
+
+### ☁️ Cloud
+
 ![google-cloud-computing-foundations-certificate](https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354)
 
 [![Google Cloud Computing Foundations: Cloud Computing Fundamentals](https://img.shields.io/badge/Google%20Cloud%20Computing%20Foundations-Cloud%20Computing%20Fundamentals-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16451591)
@@ -163,7 +167,14 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 [![Build a Secure Google Cloud Network](https://img.shields.io/badge/Build%20a%20Secure%20Google%20Cloud%20Network-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16521016)
 
+![data-analytics-essentials](https://github.com/user-attachments/assets/0f867c24-d0b2-43b0-b276-cdb1e541f778)
+---
 
+### 📊 Data Science
+
+![data-analytics-essentials](https://github.com/user-attachments/assets/0f867c24-d0b2-43b0-b276-cdb1e541f778)
+
+[![Data Analytics Essentials](https://img.shields.io/badge/Data%20Analytics%20Essentials-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/69c20bdf-4d49-4e35-a490-53a1510d1674/public_url)
 
 ---
 
