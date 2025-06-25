@@ -149,7 +149,12 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### ☁️ Cloud
 
-![google-cloud-computing-foundations-certificate](https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" alt="google-cloud-computing-foundations-certificate" width="300"/>
+</p>
+
+[![Google Cloud Certified Badge](https://img.shields.io/badge/Google%20Cloud-Certified-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/dc1193d4-e653-4870-b130-6dd35dcc5bc8/public_url)
+
 
 [![Google Cloud Computing Foundations: Cloud Computing Fundamentals](https://img.shields.io/badge/Google%20Cloud%20Computing%20Foundations-Cloud%20Computing%20Fundamentals-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16451591)
 
@@ -173,12 +178,44 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 ### 📊 Data Science
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0f867c24-d0b2-43b0-b276-cdb1e541f778" alt="data-analytics-essentials" width="200"/>
+  <img src="https://github.com/user-attachments/assets/a3016b55-a2bd-422b-8e39-f436c4f87f68" alt="introduction-to-data-science" width="300"/>
+</p>
+
+[![Introduction to Data Science](https://img.shields.io/badge/Introduction%20to%20Data%20Science-IBM-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/3884faa9-acc4-48fb-846e-6b60e1007026/public_url)
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f867c24-d0b2-43b0-b276-cdb1e541f778" alt="data-analytics-essentials" width="300"/>
 </p>
 
 [![Data Analytics Essentials](https://img.shields.io/badge/Data%20Analytics%20Essentials-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/69c20bdf-4d49-4e35-a490-53a1510d1674/public_url)
 
 ---
+
+### 🌐 IoT
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d8cced1a-a8df-4443-b8fb-0add524c66d5" alt="introduction-to-iot" width="300"/>
+</p>
+
+[![Introduction to IoT - Cisco](https://img.shields.io/badge/Introduction%20to%20IoT-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/e68a809b-85d9-49fa-ab5c-6f77edc95972/public_url)
+
+
+---
+
+### 🧮 📐 Engineering Tools
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/379776c0-340c-4883-a25b-b8d437c74ac9" alt="foundational-matlab" width="300"/>
+</p>
+
+[![Foundational MATLAB](https://img.shields.io/badge/Foundational%20MATLAB-MathWorks-blue?style=for-the-badge&logo=MathWorks&logoColor=white)](https://www.credly.com/badges/fedce078-7621-48f7-a9fc-3717f6dd797a/public_url)
+
+[![Python 101 for Data Science - IBM](https://img.shields.io/badge/Python%20101%20for%20Data%20Science-IBM-blue?style=for-the-badge&logo=python&logoColor=white)](https://courses.cognitiveclass.ai/certificates/fb3516fcac904e7c9b84e9c24d1e17a1)
+
+[![Programming Foundations: JS, HTML & CSS - Duke University](https://img.shields.io/badge/Programming%20Foundations-JS%2C%20HTML%20%26%20CSS%20by%20Duke-blue?style=for-the-badge&logo=javascript&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/FN7WR289DNNW)
+
+
 
 ## 🛠️ Technologies & Tools
 
