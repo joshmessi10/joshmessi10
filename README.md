@@ -46,14 +46,6 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 > 
 > 📸 Calculates total value using the radius of detected coins and displays the result live on screen.
 
----
-
-### MiniSumo Robot
-
-[![MiniSumo](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=MiniSumo&theme=ocean_dark&cache_bust=1)](https://github.com/joshmessi10/MiniSumo)
-
-> 🤼‍♂️ An autonomous MiniSumo robot designed for competitive sumo matches.  
-> 🧠 Implements a Finite State Machine with multi-strategy behavior and real-time sensor-based decision making.
 
 ---
 
@@ -105,32 +97,6 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ---
 
-### Safe Kitchen
-
-[![Safe Kitchen](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=SafeKitchen&theme=vue-dark&cache_bust=1)](https://github.com/joshmessi10/SafeKitchen)
-
-> 🧯 An **IoT-based smart alarm system** designed to prevent kitchen fires and gas leaks. It combines gas, flame, and temperature sensors with real-time dashboards (Node-RED & Ubidots), local data storage, and SMS alerts via Vonage, using **ESP32** and **Raspberry Pi** for edge-cloud integration.
-
----
-
-### Programming Marathon Training
-
-[![PROJECT-TR1N1TY](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=PROJECT-TR1N1TY&theme=algolia&cache_bust=1)](https://github.com/joshmessi10/PROJECT-TR1N1TY)
-
-> 🧠 A curated repository of algorithmic challenges from **HackerRank** and **LeetCode**, crafted to strengthen problem-solving skills and prepare for **coding competitions** and **technical interviews**.
-
----
-
-### Python Lexer and Parser for Python
-
-[![Python-Lexical-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Python-Lexer-For-Python&theme=transparent&cache_bust=1)](https://github.com/joshmessi10/Python-Lexer-For-Python)
-> 🧾 A Python-based **lexical analyzer** that reads source code and outputs a stream of tokens. It identifies Python keywords, operators, identifiers, and literals, and stores results in a structured `.txt` file.
-
-[![Python-Syntax-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Python-Parser-For-Python&theme=transparent&cache_bust=1)](https://github.com/joshmessi10/Python-Parser-For-Python)
-> 🧩 A **syntax analyzer (parser)** for Python that takes the token stream from a lexer and validates it against a predefined grammar. It detects syntax errors and reports them with clear line and column references.
-
----
-
 # Cleaning Robot Agent
 
 [![CleaningRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=CleaningRobotAgent&theme=rose_pine&cache_bust=1)](https://github.com/joshmessi10/CleaningRobotAgent)
@@ -150,7 +116,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 ### ☁️ Cloud
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" alt="google-cloud-computing-foundations-certificate" width="300"/>
+  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" alt="google-cloud-computing-foundations-certificate" width="150"/>
 </p>
 
 [![Google Cloud Certified Badge](https://img.shields.io/badge/Google%20Cloud-Certified-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/dc1193d4-e653-4870-b130-6dd35dcc5bc8/public_url)
@@ -178,14 +144,14 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 ### 📊 Data Science
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a3016b55-a2bd-422b-8e39-f436c4f87f68" alt="introduction-to-data-science" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a3016b55-a2bd-422b-8e39-f436c4f87f68" alt="introduction-to-data-science" width="150"/>
 </p>
 
-[![Introduction to Data Science](https://img.shields.io/badge/Introduction%20to%20Data%20Science-IBM-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/3884faa9-acc4-48fb-846e-6b60e1007026/public_url)
+[![Introduction to Data Science](https://img.shields.io/badge/Introduction%20to%20Data%20Science-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/3884faa9-acc4-48fb-846e-6b60e1007026/public_url)
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0f867c24-d0b2-43b0-b276-cdb1e541f778" alt="data-analytics-essentials" width="300"/>
+  <img src="https://github.com/user-attachments/assets/0f867c24-d0b2-43b0-b276-cdb1e541f778" alt="data-analytics-essentials" width="150"/>
 </p>
 
 [![Data Analytics Essentials](https://img.shields.io/badge/Data%20Analytics%20Essentials-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/69c20bdf-4d49-4e35-a490-53a1510d1674/public_url)
@@ -195,7 +161,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 ### 🌐 IoT
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d8cced1a-a8df-4443-b8fb-0add524c66d5" alt="introduction-to-iot" width="300"/>
+  <img src="https://github.com/user-attachments/assets/d8cced1a-a8df-4443-b8fb-0add524c66d5" alt="introduction-to-iot" width="150"/>
 </p>
 
 [![Introduction to IoT - Cisco](https://img.shields.io/badge/Introduction%20to%20IoT-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/e68a809b-85d9-49fa-ab5c-6f77edc95972/public_url)
@@ -206,7 +172,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 ### 🧮 📐 Engineering Tools
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/379776c0-340c-4883-a25b-b8d437c74ac9" alt="foundational-matlab" width="300"/>
+  <img src="https://github.com/user-attachments/assets/379776c0-340c-4883-a25b-b8d437c74ac9" alt="foundational-matlab" width="150"/>
 </p>
 
 [![Foundational MATLAB](https://img.shields.io/badge/Foundational%20MATLAB-MathWorks-blue?style=for-the-badge&logo=MathWorks&logoColor=white)](https://www.credly.com/badges/fedce078-7621-48f7-a9fc-3717f6dd797a/public_url)
