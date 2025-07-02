@@ -173,7 +173,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 ### 🤖 AI & Prompt Engineering
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fdce0fda-9702-4774-86c9-ff24ecbeb108" alt="introduction-to-modern-ai" width="300"/>
+  <img src="https://github.com/user-attachments/assets/fdce0fda-9702-4774-86c9-ff24ecbeb108" alt="introduction-to-modern-ai" width="150"/>
 </p>
 
 [![Introduction to Modern AI - Cisco](https://img.shields.io/badge/Introduction%20to%20Modern%20AI-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/299bd5fa-2318-42dd-a8e2-17fe904962ff/public_url)
