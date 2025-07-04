@@ -218,6 +218,8 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 ### 🛠️ Hardware & Embedded Systems  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium-AC7C1A?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![TIA Portal](https://img.shields.io/badge/TIA%20Portal-0078D7?style=for-the-badge&logo=siemens&logoColor=white)
 
 ### 🎮 Game Development  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
