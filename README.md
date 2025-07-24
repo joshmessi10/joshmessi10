@@ -166,6 +166,18 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 [![Introduction to IoT - Cisco](https://img.shields.io/badge/Introduction%20to%20IoT-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/e68a809b-85d9-49fa-ab5c-6f77edc95972/public_url)
 
+
+---
+
+### 🛡️ Cybersecurity Fundamentals
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e682d8a4-2e51-47dc-83c1-356410f612be" alt="introduction-to-cybersecurity" width="150"/>
+</p>
+
+[![Introduction to Cybersecurity - Cisco](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/d5aa03c5-dab8-4a48-a927-54a48b4c43bf/public_url)
+
+
 ---
 
 ### 
