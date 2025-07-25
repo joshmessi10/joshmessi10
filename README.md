@@ -158,13 +158,19 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ---
 
-### 🌐 IoT
+### 🌐 IoT & Hardware
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d8cced1a-a8df-4443-b8fb-0add524c66d5" alt="introduction-to-iot" width="150"/>
 </p>
 
 [![Introduction to IoT - Cisco](https://img.shields.io/badge/Introduction%20to%20IoT-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/e68a809b-85d9-49fa-ab5c-6f77edc95972/public_url)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/13d56e45-7362-4368-911e-67e25c0cdba3" alt="computer-hardware-basics" width="150"/>
+</p>
+
+[![Computer Hardware Basics - Cisco](https://img.shields.io/badge/Computer%20Hardware%20Basics-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/fd8cac7d-5f8e-442b-b503-a0b3d5b49587/public_url)
 
 
 ---
