@@ -175,7 +175,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ---
 
-### 🛡️ Cybersecurity Fundamentals
+### 🛡️ Cybersecurity && Networking
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e682d8a4-2e51-47dc-83c1-356410f612be" alt="introduction-to-cybersecurity" width="150"/>
@@ -183,6 +183,11 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 [![Introduction to Cybersecurity - Cisco](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/d5aa03c5-dab8-4a48-a927-54a48b4c43bf/public_url)
 
+p align="center">
+  <img src="https://github.com/user-attachments/assets/0fb2fb15-ad9b-4763-bb37-5f7935b873e5" alt="networking-basics" width="150"/>
+</p>
+
+[![Networking Basics - Cisco](https://img.shields.io/badge/Networking%20Basics-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/a54145dd-807c-4dc6-9abf-948c1428d730/public_url)
 
 ---
 
