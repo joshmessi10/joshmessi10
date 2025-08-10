@@ -113,7 +113,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ---
 
-### ☁️ Cloud
+### ☁️ Cloud Computing
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" alt="google-cloud-computing-foundations-certificate" width="150"/>
@@ -175,7 +175,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ---
 
-### 🛡️ Cybersecurity && Networking
+### 🛡️ Junior Cybersecurity Analyst
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e682d8a4-2e51-47dc-83c1-356410f612be" alt="introduction-to-cybersecurity" width="150"/>
@@ -183,15 +183,26 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 [![Introduction to Cybersecurity - Cisco](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/d5aa03c5-dab8-4a48-a927-54a48b4c43bf/public_url)
 
+
+
+---
+
+### 🌐 Networking Technician
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0fb2fb15-ad9b-4763-bb37-5f7935b873e5" alt="networking-basics" width="150"/>
 </p>
 
 [![Networking Basics - Cisco](https://img.shields.io/badge/Networking%20Basics-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/a54145dd-807c-4dc6-9abf-948c1428d730/public_url)
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b3b38bfc-dd20-4caa-a6c0-a56ffb6471a7" alt="networking-devices-and-initial-configuration" width="150"/>
+</p>
 
-### 
+[![Networking Devices and Initial Configuration - Cisco](https://img.shields.io/badge/Networking%20Devices%20and%20Initial%20Configuration-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/7af1937c-6478-4165-8c01-36f8f1a1f1ae/public_url)
+
+
+---
 
 ### 🤖 AI & Prompt Engineering
 
