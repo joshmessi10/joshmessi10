@@ -160,6 +160,13 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 [![Data Analytics Essentials](https://img.shields.io/badge/Data%20Analytics%20Essentials-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/69c20bdf-4d49-4e35-a490-53a1510d1674/public_url)
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/914fe3c1-bc7e-4233-98df-fd9d90a1c0ca" alt="data-fundamentals" width="150"/>
+</p>
+
+[![Data Fundamentals](https://img.shields.io/badge/Data%20Fundamentals-IBM-blue?style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/3ab50044-5fc4-45b8-b4f8-8a4fbf099e4c/public_url)
+
 ---
 
 ### 🌐 IoT & Hardware
@@ -225,6 +232,13 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 </p>
 
 [![Foundational MATLAB](https://img.shields.io/badge/Foundational%20MATLAB-MathWorks-blue?style=for-the-badge&logo=MathWorks&logoColor=white)](https://www.credly.com/badges/fedce078-7621-48f7-a9fc-3717f6dd797a/public_url)
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4872351d-35b4-49ad-8085-8c28180b7405" alt="digital-mindset" width="150"/>
+</p>
+
+[![Digital Mindset](https://img.shields.io/badge/Digital%20Mindset-IBM-blue?style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/7dd39712-f1e4-4839-b348-c098d3efd27b/public_url)
 
 [![Python 101 for Data Science - IBM](https://img.shields.io/badge/Python%20101%20for%20Data%20Science-IBM-blue?style=for-the-badge&logo=python&logoColor=white)](https://courses.cognitiveclass.ai/certificates/fb3516fcac904e7c9b84e9c24d1e17a1)
 
