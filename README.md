@@ -221,7 +221,8 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
   <img src="https://github.com/user-attachments/assets/d125fec4-d543-4968-8373-0888444e94a7" alt="artificial-intelligence-fundamentals" width="150"/>
 </p>
 
-[![Artificial Intelligence Fundamentals - Cisco](https://img.shields.io/badge/Artificial%20Intelligence%20Fundamentals-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/e628039c-533c-46fa-bb23-74909335989a/public_url)
+[![Artificial Intelligence Fundamentals - IBM](https://img.shields.io/badge/Artificial%20Intelligence%20Fundamentals-IBM-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/e628039c-533c-46fa-bb23-74909335989a/public_url)
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fdce0fda-9702-4774-86c9-ff24ecbeb108" alt="introduction-to-modern-ai" width="150"/>
