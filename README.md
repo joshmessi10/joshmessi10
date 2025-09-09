@@ -242,6 +242,14 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/71eb339f-ba74-43c1-b968-ce262b7fa026" alt="fundamentals-of-sustainability-and-technology" width="150"/>
+</p>
+
+[![Fundamentals of Sustainability and Technology](https://img.shields.io/badge/Fundamentals%20of%20Sustainability%20and%20Technology-IBM-blue?style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/92bd550f-3581-49b2-a500-36573fcd8895/public_url)
+
+
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/4872351d-35b4-49ad-8085-8c28180b7405" alt="digital-mindset" width="150"/>
 </p>
 
