@@ -263,6 +263,13 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 [![Digital Mindset](https://img.shields.io/badge/Digital%20Mindset-IBM-blue?style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/7dd39712-f1e4-4839-b348-c098d3efd27b/public_url)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d276854b-3215-4f1a-b2d3-734d85a54882" alt="explore-emerging-tech" width="150"/>
+</p>
+
+[![Explore Emerging Tech](https://img.shields.io/badge/Explore%20Emerging%20Tech-IBM-blue?style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/f1e9252f-c2be-40cc-958a-935caf79b710/public_url)
+
+
 [![Python 101 for Data Science - IBM](https://img.shields.io/badge/Python%20101%20for%20Data%20Science-IBM-blue?style=for-the-badge&logo=python&logoColor=white)](https://courses.cognitiveclass.ai/certificates/fb3516fcac904e7c9b84e9c24d1e17a1)
 
 [![Programming Foundations: JS, HTML & CSS - Duke University](https://img.shields.io/badge/Programming%20Foundations-JS%2C%20HTML%20%26%20CSS%20by%20Duke-blue?style=for-the-badge&logo=javascript&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/FN7WR289DNNW)
