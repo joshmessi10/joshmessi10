@@ -235,6 +235,14 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 ### 🧮 📐 Engineering Tools
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/7b42b0cb-a4a9-4283-920a-aefa17490193" alt="web-development-fundamentals" width="150"/>
+</p>
+
+[![Web Development Fundamentals](https://img.shields.io/badge/Web%20Development%20Fundamentals-IBM-blue?style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/51a464aa-ef79-489a-bd4a-5183c2abbd69/public_url)
+
+
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/379776c0-340c-4883-a25b-b8d437c74ac9" alt="foundational-matlab" width="150"/>
 </p>
 
