@@ -194,7 +194,11 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 [![Introduction to Cybersecurity - Cisco](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/d5aa03c5-dab8-4a48-a927-54a48b4c43bf/public_url)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ea487ba-2ab8-45c7-b166-b30459545be5" alt="cybersecurity-fundamentals" width="150"/>
+</p>
 
+[![Cybersecurity Fundamentals](https://img.shields.io/badge/Cybersecurity%20Fundamentals-IBM-blue?style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/04fcf30b-7e75-43bc-9800-470bc6260102/public_url)
 
 ---
 
