@@ -34,6 +34,15 @@
 
 A showcase of some of my most exciting and hands-on repositories. Click to explore or try the live demos!
 
+### Micromouse Arduino – Intelligent Agent Maze Solver
+
+[![MicroMouse-Arduino](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=MicroMouse-Arduino&theme=monokai&cache_bust=1)](https://github.com/joshmessi10/MicroMouse-Arduino)
+
+> 🐭 An Arduino-based intelligent micromouse agent that scans, maps, and solves mazes.  
+> 📡 Controlled via Bluetooth, featuring DFS exploration, path reduction, and live maze mapping.  
+> 💡 Includes LED action indicators and calibrated PWM turns for reliable navigation.  
+
+---
 ### Line-Following Robot
 
 [![LineFollowingRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=LineFollowingRobot&theme=neon&cache_bust=1)](https://github.com/joshmessi10/LineFollowingRobot)
