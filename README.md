@@ -121,6 +121,18 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 - With Memory – builds a map, avoids revisiting clean areas, and triggers deep-clean routines.
 >⚡ Features energy management and a visual interface using ipywidgets.
 
+
+---
+
+### Creational Design Patterns in JFrame
+
+[![CreationalDesignPatternsInJFrame](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=CreationalDesignPatternsInJFrame&theme=transparent&cache_bust=1)](https://github.com/joshmessi10/CreationalDesignPatternsInJFrame)
+
+
+> 🏗️ Repository showcasing practical examples of **Creational Design Patterns** (Builder, Prototype, Singleton, Factory Method, Abstract Factory) using **Java Swing (JFrame)**.  
+> 🚍 Examples are based on the analysis of a **transportation company** for **passengers and parcel/cargo delivery**, including route planning, cloning maintenance plans, and efficient vehicle management.
+> 📚 Each pattern includes descriptions, UML diagrams, and full Java implementations for hands-on learning.
+
 ---
 ## 🛡️ Badges & Certificates
 
