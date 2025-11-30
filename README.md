@@ -34,6 +34,34 @@
 
 A showcase of some of my most exciting and hands-on repositories. Click to explore or try the live demos!
 
+### ActiveBreakApp – AI-Powered Posture & Active Break System
+
+[![ActiveBreakApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=ActiveBreakApp&theme=tokyonight&cache_bust=1)](https://github.com/joshmessi10/ActiveBreakApp)
+
+> 🧠 Electron + TensorFlow.js desktop app for real-time posture analysis powered by MoveNet Lightning.  
+> ⏱️ Performs per-second posture tracking, intelligent notifications, active break scheduling, and full event logging.  
+> 🏆 Includes challenge progression, break-reward mechanics, streak preservation, and habit-building analytics.  
+> 🔒 Supports per-user settings, admin/client roles, encrypted authentication, and 100% local data privacy.
+
+### 📘 ReservasApp – Creational Patterns Reservation System
+
+[![ReservasApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=ReservasApp&theme=radical&cache_bust=1)](https://github.com/joshmessi10/ReservasApp)
+
+> 🧩 Node.js reservation system designed around creational design patterns.  
+> 🏗️ Implements Factory Method, Builder, Singleton, Prototype and Abstract Factory.  
+> 🚀 Modular Express architecture with extensible services for users and reservations.  
+> 🌐 Includes simple frontend, in-memory storage, and clean pedagogical design.
+
+### 🚚 TransporteApp – Behavioral Patterns Transport System
+
+[![TransporteApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=TransporteApp&theme=dracula&cache_bust=1)](https://github.com/joshmessi10/TransporteApp)
+
+> 🧠 Transport management app focused on behavioral design patterns in the domain layer.  
+> 🔁 Uses State for shipment and trip lifecycles, and Chain of Responsibility for shipment validation & pricing.  
+> 🧾 Template Method orchestrates complex purchase flows for tickets and shipments.  
+> 🛒 Memento snapshots the shopping cart state for potential undo/history features.
+
+
 ### Micromouse Arduino – Intelligent Agent Maze Solver
 
 [![MicroMouse-Arduino](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=MicroMouse-Arduino&theme=monokai&cache_bust=1)](https://github.com/joshmessi10/MicroMouse-Arduino)
@@ -322,12 +350,14 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 🛠️ Hardware & Embedded Systems  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium-AC7C1A?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-0078D7?style=for-the-badge&logo=siemens&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
 ### 🎮 Game Development  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
