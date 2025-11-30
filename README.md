@@ -36,30 +36,45 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### 🧍‍♂️ ActiveBreakApp – AI-Powered Posture & Active Break System
 
-[![ActiveBreakApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=ActiveBreakApp&theme=monokai&cache_bust=1)](https://github.com/joshmessi10/ActiveBreakApp)
+[![ActiveBreakApp](https://img.shields.io/badge/GitHub-ActiveBreakApp-181717?style=for-the-badge&logo=github)](https://github.com/joshmessi10/ActiveBreakApp)  
+
+[![Stars](https://img.shields.io/github/stars/joshmessi10/ActiveBreakApp?style=flat-square)](https://github.com/joshmessi10/ActiveBreakApp/stargazers)
+![Lang](https://img.shields.io/github/languages/top/joshmessi10/ActiveBreakApp?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/joshmessi10/ActiveBreakApp?style=flat-square)
 
 > 🧠 Electron + TensorFlow.js desktop app for real-time posture analysis powered by MoveNet Lightning.  
 > ⏱️ Performs per-second posture tracking, intelligent notifications, active break scheduling, and full event logging.  
 > 🏆 Includes challenge progression, break-reward mechanics, streak preservation, and habit-building analytics.  
 > 🔒 Supports per-user settings, admin/client roles, encrypted authentication, and 100% local data privacy.
 
+
 ### 📘 ReservasApp – Creational Patterns Reservation System
 
-[![ReservasApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=ReservasApp&theme=monokai&cache_bust=1)](https://github.com/joshmessi10/ReservasApp)
+[![ReservasApp](https://img.shields.io/badge/GitHub-ReservasApp-181717?style=for-the-badge&logo=github)](https://github.com/joshmessi10/ReservasApp)  
+
+[![Stars](https://img.shields.io/github/stars/joshmessi10/ReservasApp?style=flat-square)](https://github.com/joshmessi10/ReservasApp/stargazers)
+![Lang](https://img.shields.io/github/languages/top/joshmessi10/ReservasApp?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/joshmessi10/ReservasApp?style=flat-square)
 
 > 🧩 Node.js reservation system designed around creational design patterns.  
 > 🏗️ Implements Factory Method, Builder, Singleton, Prototype and Abstract Factory.  
 > 🚀 Modular Express architecture with extensible services for users and reservations.  
 > 🌐 Includes simple frontend, in-memory storage, and clean pedagogical design.
 
+
 ### 🚚 TransporteApp – Behavioral Patterns Transport System
 
-[![TransporteApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=TransporteApp&theme=monokai&cache_bust=1)](https://github.com/joshmessi10/TransporteApp)
+[![TransporteApp](https://img.shields.io/badge/GitHub-TransporteApp-181717?style=for-the-badge&logo=github)](https://github.com/joshmessi10/TransporteApp)  
+
+[![Stars](https://img.shields.io/github/stars/joshmessi10/TransporteApp?style=flat-square)](https://github.com/joshmessi10/TransporteApp/stargazers)
+![Lang](https://img.shields.io/github/languages/top/joshmessi10/TransporteApp?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/joshmessi10/TransporteApp?style=flat-square)
 
 > 🧠 Transport management app focused on behavioral design patterns in the domain layer.  
 > 🔁 Uses State for shipment and trip lifecycles, and Chain of Responsibility for shipment validation & pricing.  
 > 🧾 Template Method orchestrates complex purchase flows for tickets and shipments.  
 > 🛒 Memento snapshots the shopping cart state for potential undo/history features.
+
 
 ### Micromouse Arduino – Intelligent Agent Maze Solver
 
