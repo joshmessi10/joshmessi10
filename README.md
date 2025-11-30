@@ -34,80 +34,53 @@
 
 A showcase of some of my most exciting and hands-on repositories. Click to explore or try the live demos!
 
-<style>
-.card {
-  padding: 18px 22px;
-  border-radius: 14px;
-  background: linear-gradient(135deg, #0d0d0d, #1a1a1a);
-  border: 1px solid #2a2a2a;
-  margin-bottom: 22px;
-}
-.card-title {
-  font-size: 1.45rem;
-  font-weight: 700;
-  margin-bottom: 10px;
-}
-.card-btn {
-  display: inline-block;
-  padding: 10px 16px;
-  border-radius: 10px;
-  font-weight: 600;
-  background: linear-gradient(135deg, #0077ff, #00d4ff);
-  color: white !important;
-  text-decoration: none;
-  margin-bottom: 12px;
-}
-.badges img {
-  margin-right: 6px;
-}
-</style>
+---
 
-<div class="card">
-  <div class="card-title">🧍‍♂️ ActiveBreakApp – AI-Powered Posture & Active Break System</div>
-  <a class="card-btn" href="https://github.com/joshmessi10/ActiveBreakApp">🔗 View Repository</a>
-  <div class="badges">
-    <img src="https://img.shields.io/github/stars/joshmessi10/ActiveBreakApp?style=flat-square" />
-    <img src="https://img.shields.io/github/languages/top/joshmessi10/ActiveBreakApp?style=flat-square" />
-    <img src="https://img.shields.io/github/last-commit/joshmessi10/ActiveBreakApp?style=flat-square" />
-  </div>
-  <br>
-  🧠 Electron + TensorFlow.js desktop app for real-time posture analysis powered by MoveNet Lightning.<br>
-  ⏱️ Per-second posture tracking, intelligent notifications, active break scheduling, and full event logging.<br>
-  🏆 Challenge progression, streak tracking, break-reward mechanics, and habit-building analytics.<br>
-  🔒 Local-only inference, encrypted authentication, and admin/client role control.
-</div>
+### 🧍‍♂️ ActiveBreakApp – AI-Powered Posture & Active Break System  
 
+[![ActiveBreakApp](https://img.shields.io/badge/GitHub-ActiveBreakApp-181717?style=for-the-badge&logo=github)](https://github.com/joshmessi10/ActiveBreakApp)  
 
-<div class="card">
-  <div class="card-title">📘 ReservasApp – Creational Patterns Reservation System</div>
-  <a class="card-btn" href="https://github.com/joshmessi10/ReservasApp">🔗 View Repository</a>
-  <div class="badges">
-    <img src="https://img.shields.io/github/stars/joshmessi10/ReservasApp?style=flat-square" />
-    <img src="https://img.shields.io/github/languages/top/joshmessi10/ReservasApp?style=flat-square" />
-    <img src="https://img.shields.io/github/last-commit/joshmessi10/ReservasApp?style=flat-square" />
-  </div>
-  <br>
-  🧩 Node.js reservation system designed around creational design patterns.<br>
-  🏗️ Implements Factory Method, Builder, Singleton, Prototype & Abstract Factory modules.<br>
-  🚀 Modular Express architecture with separation of concerns and service extensibility.<br>
-  🌐 Includes lightweight UI and in-memory persistence for pedagogical clarity.
-</div>
+[![Stars](https://img.shields.io/github/stars/joshmessi10/ActiveBreakApp?style=flat-square)](https://github.com/joshmessi10/ActiveBreakApp/stargazers)
+![Lang](https://img.shields.io/github/languages/top/joshmessi10/ActiveBreakApp?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/joshmessi10/ActiveBreakApp?style=flat-square)
 
+> 🧠 Electron + TensorFlow.js desktop app for real-time posture analysis powered by MoveNet Lightning.  
+> ⏱️ Per-second posture tracking, intelligent notifications, active break scheduling, and full event logging.  
+> 🏆 Challenge progression, break-reward mechanics, streak preservation, and habit-building analytics.  
+> 🔒 Local-only inference, encrypted authentication, and admin/client role control.
 
-<div class="card">
-  <div class="card-title">🚚 TransporteApp – Behavioral Patterns Transport System</div>
-  <a class="card-btn" href="https://github.com/joshmessi10/TransporteApp">🔗 View Repository</a>
-  <div class="badges">
-    <img src="https://img.shields.io/github/stars/joshmessi10/TransporteApp?style=flat-square" />
-    <img src="https://img.shields.io/github/languages/top/joshmessi10/TransporteApp?style=flat-square" />
-    <img src="https://img.shields.io/github/last-commit/joshmessi10/TransporteApp?style=flat-square" />
-  </div>
-  <br>
-  🧠 Transport management system showcasing advanced behavioral design patterns.<br>
-  🔁 Uses State for shipment/trip lifecycles and Chain of Responsibility for validation & pricing.<br>
-  🧾 Template Method for complete purchase flows, and Memento for cart snapshots.<br>
-  🛒 Clean, extensible domain layer with real multi-module interaction.
-</div>
+---
+
+### 📘 ReservasApp – Creational Patterns Reservation System  
+
+[![ReservasApp](https://img.shields.io/badge/GitHub-ReservasApp-181717?style=for-the-badge&logo=github)](https://github.com/joshmessi10/ReservasApp)  
+
+[![Stars](https://img.shields.io/github/stars/joshmessi10/ReservasApp?style=flat-square)](https://github.com/joshmessi10/ReservasApp/stargazers)
+![Lang](https://img.shields.io/github/languages/top/joshmessi10/ReservasApp?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/joshmessi10/ReservasApp?style=flat-square)
+
+> 🧩 Node.js reservation system designed around creational design patterns.  
+> 🏗️ Implements Factory Method, Builder, Singleton, Prototype and Abstract Factory.  
+> 🚀 Modular Express architecture with clear separation of concerns and extensible services.  
+> 🌐 Lightweight frontend and in-memory persistence focused on pedagogy and clarity.
+
+---
+
+### 🚚 TransporteApp – Behavioral Patterns Transport System  
+
+[![TransporteApp](https://img.shields.io/badge/GitHub-TransporteApp-181717?style=for-the-badge&logo=github)](https://github.com/joshmessi10/TransporteApp)  
+
+[![Stars](https://img.shields.io/github/stars/joshmessi10/TransporteApp?style=flat-square)](https://github.com/joshmessi10/TransporteApp/stargazers)
+![Lang](https://img.shields.io/github/languages/top/joshmessi10/TransporteApp?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/joshmessi10/TransporteApp?style=flat-square)
+
+> 🧠 Transport management system showcasing advanced behavioral design patterns.  
+> 🔁 Uses State for shipment and trip lifecycles, and Chain of Responsibility for shipment validation & pricing.  
+> 🧾 Template Method coordinates complete purchase flows for tickets and shipments.  
+> 🛒 Memento-based cart snapshots enabling potential undo/history features.
+
+---
+
 
 
 
