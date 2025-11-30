@@ -34,54 +34,88 @@
 
 A showcase of some of my most exciting and hands-on repositories. Click to explore or try the live demos!
 
+<table>
+  <tr>
+    <td>
+
+### 🧍‍♂️ ActiveBreakApp – AI-Powered Posture & Active Break System
+
+<a href="https://github.com/joshmessi10/ActiveBreakApp">
+  <img src="https://img.shields.io/badge/GitHub-Open%20ActiveBreakApp-111827?style=for-the-badge&logo=github" alt="ActiveBreakApp Repo" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/github/stars/joshmessi10/ActiveBreakApp?style=flat-square" />
+<img src="https://img.shields.io/github/languages/top/joshmessi10/ActiveBreakApp?style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/joshmessi10/ActiveBreakApp?style=flat-square" />
+
+<br/><br/>
+
+🧠 Electron + TensorFlow.js desktop app for real-time posture analysis powered by MoveNet Lightning.  
+⏱️ Per-second posture tracking, smart notifications, active break scheduling, and full event logging.  
+🏆 Challenge progression, streak tracking, and break-reward mechanics for building healthy habits.  
+🔒 Local-only inference, encrypted authentication, and strict admin/client role separation.
+
+  </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+
+### 📘 ReservasApp – Creational Patterns Reservation System
+
+<a href="https://github.com/joshmessi10/ReservasApp">
+  <img src="https://img.shields.io/badge/GitHub-Open%20ReservasApp-111827?style=for-the-badge&logo=github" alt="ReservasApp Repo" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/github/stars/joshmessi10/ReservasApp?style=flat-square" />
+<img src="https://img.shields.io/github/languages/top/joshmessi10/ReservasApp?style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/joshmessi10/ReservasApp?style=flat-square" />
+
+<br/><br/>
+
+🧩 Node.js reservation system designed around creational design patterns.  
+🏗️ Implements Factory Method, Builder, Singleton, Prototype and Abstract Factory across the domain.  
+🚀 Modular Express architecture with clean separation of controllers, services and models.  
+🌐 Lightweight frontend and in-memory persistence focused on clarity and teaching design patterns.
+
+  </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+
+### 🚚 TransporteApp – Behavioral Patterns Transport System
+
+<a href="https://github.com/joshmessi10/TransporteApp">
+  <img src="https://img.shields.io/badge/GitHub-Open%20TransporteApp-111827?style=for-the-badge&logo=github" alt="TransporteApp Repo" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/github/stars/joshmessi10/TransporteApp?style=flat-square" />
+<img src="https://img.shields.io/github/languages/top/joshmessi10/TransporteApp?style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/joshmessi10/TransporteApp?style=flat-square" />
+
+<br/><br/>
+
+🧠 Transport management system showcasing advanced behavioral design patterns in the domain layer.  
+🔁 Uses State for shipment and trip lifecycles, and Chain of Responsibility for shipment validation & pricing.  
+🧾 Template Method coordinates full purchase flows for tickets and shipments.  
+🛒 Memento-based cart snapshots enabling undo/history-style features for complex purchases.
+
+  </td>
+  </tr>
+</table>
+
 ---
-
-### 🧍‍♂️ ActiveBreakApp – AI-Powered Posture & Active Break System  
-
-[![ActiveBreakApp](https://img.shields.io/badge/GitHub-ActiveBreakApp-181717?style=for-the-badge&logo=github)](https://github.com/joshmessi10/ActiveBreakApp)  
-
-[![Stars](https://img.shields.io/github/stars/joshmessi10/ActiveBreakApp?style=flat-square)](https://github.com/joshmessi10/ActiveBreakApp/stargazers)
-![Lang](https://img.shields.io/github/languages/top/joshmessi10/ActiveBreakApp?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/joshmessi10/ActiveBreakApp?style=flat-square)
-
-> 🧠 Electron + TensorFlow.js desktop app for real-time posture analysis powered by MoveNet Lightning.  
-> ⏱️ Per-second posture tracking, intelligent notifications, active break scheduling, and full event logging.  
-> 🏆 Challenge progression, break-reward mechanics, streak preservation, and habit-building analytics.  
-> 🔒 Local-only inference, encrypted authentication, and admin/client role control.
-
----
-
-### 📘 ReservasApp – Creational Patterns Reservation System  
-
-[![ReservasApp](https://img.shields.io/badge/GitHub-ReservasApp-181717?style=for-the-badge&logo=github)](https://github.com/joshmessi10/ReservasApp)  
-
-[![Stars](https://img.shields.io/github/stars/joshmessi10/ReservasApp?style=flat-square)](https://github.com/joshmessi10/ReservasApp/stargazers)
-![Lang](https://img.shields.io/github/languages/top/joshmessi10/ReservasApp?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/joshmessi10/ReservasApp?style=flat-square)
-
-> 🧩 Node.js reservation system designed around creational design patterns.  
-> 🏗️ Implements Factory Method, Builder, Singleton, Prototype and Abstract Factory.  
-> 🚀 Modular Express architecture with clear separation of concerns and extensible services.  
-> 🌐 Lightweight frontend and in-memory persistence focused on pedagogy and clarity.
-
----
-
-### 🚚 TransporteApp – Behavioral Patterns Transport System  
-
-[![TransporteApp](https://img.shields.io/badge/GitHub-TransporteApp-181717?style=for-the-badge&logo=github)](https://github.com/joshmessi10/TransporteApp)  
-
-[![Stars](https://img.shields.io/github/stars/joshmessi10/TransporteApp?style=flat-square)](https://github.com/joshmessi10/TransporteApp/stargazers)
-![Lang](https://img.shields.io/github/languages/top/joshmessi10/TransporteApp?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/joshmessi10/TransporteApp?style=flat-square)
-
-> 🧠 Transport management system showcasing advanced behavioral design patterns.  
-> 🔁 Uses State for shipment and trip lifecycles, and Chain of Responsibility for shipment validation & pricing.  
-> 🧾 Template Method coordinates complete purchase flows for tickets and shipments.  
-> 🛒 Memento-based cart snapshots enabling potential undo/history features.
-
----
-
-
 
 
 ### Micromouse Arduino – Intelligent Agent Maze Solver
