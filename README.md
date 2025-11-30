@@ -63,7 +63,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### Micromouse Arduino – Intelligent Agent Maze Solver
 
-[![MicroMouse-Arduino](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=MicroMouse-Arduino&theme=monokai&cache_bust=1)](https://github.com/joshmessi10/MicroMouse-Arduino)
+[![MicroMouse-Arduino](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=TransporteApp&theme=monokai&cache_bust=1)](https://github.com/joshmessi10/TransporteApp)
 
 > 🐭 An Arduino-based intelligent micromouse agent that scans, maps, and solves mazes.  
 > 📡 Controlled via Bluetooth, featuring DFS exploration, path reduction, and live maze mapping.  
