@@ -36,7 +36,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### 🧍‍♂️ ActiveBreakApp – AI-Powered Posture & Active Break System
 
-[![ActiveBreakApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=ActiveBreakApp&theme=monokai&cache_bust=1)](https://github.com/joshmessi10/ActiveBreakApp)
+[![ActiveBreakApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=ActiveBreakApp&theme=prussian&cache_bust=1)](https://github.com/joshmessi10/ActiveBreakApp)
 
 > 🧠 Electron + TensorFlow.js desktop app for real-time posture analysis using MoveNet Lightning.  
 > ⏱️ Per-second posture tracking, smart notifications, active break scheduling, and full event logging.  
@@ -47,7 +47,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### 📘 ReservasApp – Creational Patterns Reservation System
 
-[![ReservasApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=ReservasApp&theme=monokai&cache_bust=1)](https://github.com/joshmessi10/ReservasApp)
+[![ReservasApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=ReservasApp&theme=maroongold&cache_bust=1)](https://github.com/joshmessi10/ReservasApp)
 
 > 🧩 Node.js reservation system designed around creational design patterns.  
 > 🏗️ Implements Factory Method, Builder, Singleton, Prototype, and Abstract Factory.  
@@ -58,7 +58,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### 🚚 TransporteApp – Behavioral Patterns Transport System
 
-[![TransporteApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=TransporteApp&theme=monokai&cache_bust=1)](https://github.com/joshmessi10/TransporteApp)
+[![TransporteApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=TransporteApp&theme=ocean_dark&cache_bust=1)](https://github.com/joshmessi10/TransporteApp)
 
 > 🧠 Transport management system showcasing advanced behavioral design patterns.  
 > 🔁 Uses State for shipment and trip lifecycles, and Chain of Responsibility for validation and pricing.  
