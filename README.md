@@ -34,97 +34,36 @@
 
 A showcase of some of my most exciting and hands-on repositories. Click to explore or try the live demos!
 
-<table>
-  <tr>
-    <td>
-
 ### 🧍‍♂️ ActiveBreakApp – AI-Powered Posture & Active Break System
 
-<a href="https://github.com/joshmessi10/ActiveBreakApp">
-  <img src="https://img.shields.io/badge/GitHub-Open%20ActiveBreakApp-111827?style=for-the-badge&logo=github" alt="ActiveBreakApp Repo" />
-</a>
+[![ActiveBreakApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=ActiveBreakApp&theme=monokai&cache_bust=1)](https://github.com/joshmessi10/ActiveBreakApp)
 
-<br/>
-
-<img src="https://img.shields.io/github/stars/joshmessi10/ActiveBreakApp?style=flat-square" />
-<img src="https://img.shields.io/github/languages/top/joshmessi10/ActiveBreakApp?style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/joshmessi10/ActiveBreakApp?style=flat-square" />
-
-<br/><br/>
-
-🧠 Electron + TensorFlow.js desktop app for real-time posture analysis powered by MoveNet Lightning.  
-⏱️ Per-second posture tracking, smart notifications, active break scheduling, and full event logging.  
-🏆 Challenge progression, streak tracking, and break-reward mechanics for building healthy habits.  
-🔒 Local-only inference, encrypted authentication, and strict admin/client role separation.
-
-  </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-
-### 📘 ReservasApp – Creational Patterns Reservation System
-
-<a href="https://github.com/joshmessi10/ReservasApp">
-  <img src="https://img.shields.io/badge/GitHub-Open%20ReservasApp-111827?style=for-the-badge&logo=github" alt="ReservasApp Repo" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/github/stars/joshmessi10/ReservasApp?style=flat-square" />
-<img src="https://img.shields.io/github/languages/top/joshmessi10/ReservasApp?style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/joshmessi10/ReservasApp?style=flat-square" />
-
-<br/><br/>
-
-🧩 Node.js reservation system designed around creational design patterns.  
-🏗️ Implements Factory Method, Builder, Singleton, Prototype and Abstract Factory across the domain.  
-🚀 Modular Express architecture with clean separation of controllers, services and models.  
-🌐 Lightweight frontend and in-memory persistence focused on clarity and teaching design patterns.
-
-  </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-
-### 🚚 TransporteApp – Behavioral Patterns Transport System
-
-<a href="https://github.com/joshmessi10/TransporteApp">
-  <img src="https://img.shields.io/badge/GitHub-Open%20TransporteApp-111827?style=for-the-badge&logo=github" alt="TransporteApp Repo" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/github/stars/joshmessi10/TransporteApp?style=flat-square" />
-<img src="https://img.shields.io/github/languages/top/joshmessi10/TransporteApp?style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/joshmessi10/TransporteApp?style=flat-square" />
-
-<br/><br/>
-
-🧠 Transport management system showcasing advanced behavioral design patterns in the domain layer.  
-🔁 Uses State for shipment and trip lifecycles, and Chain of Responsibility for shipment validation & pricing.  
-🧾 Template Method coordinates full purchase flows for tickets and shipments.  
-🛒 Memento-based cart snapshots enabling undo/history-style features for complex purchases.
-
-  </td>
-  </tr>
-</table>
+> 🧠 Electron + TensorFlow.js desktop app for real-time posture analysis using MoveNet Lightning.  
+> ⏱️ Per-second posture tracking, smart notifications, active break scheduling, and full event logging.  
+> 🏆 Challenge progression, streak tracking, and reward-based active break mechanics.  
+> 🔒 Local-only inference, encrypted auth, and strict admin/client role separation.
 
 ---
 
+### 📘 ReservasApp – Creational Patterns Reservation System
 
-### Micromouse Arduino – Intelligent Agent Maze Solver
+[![ReservasApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=ReservasApp&theme=monokai&cache_bust=1)](https://github.com/joshmessi10/ReservasApp)
 
-[![MicroMouse-Arduino](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=MicroMouse-Arduino&theme=monokai&cache_bust=1)](https://github.com/joshmessi10/MicroMouse-Arduino)
+> 🧩 Node.js reservation system designed around creational design patterns.  
+> 🏗️ Implements Factory Method, Builder, Singleton, Prototype, and Abstract Factory.  
+> 🚀 Modular Express architecture with clear separation of controllers, services, and models.  
+> 🌐 Lightweight frontend with in-memory persistence focused on teaching design patterns.
 
-> 🐭 An Arduino-based intelligent micromouse agent that scans, maps, and solves mazes.  
-> 📡 Controlled via Bluetooth, featuring DFS exploration, path reduction, and live maze mapping.  
-> 💡 Includes LED action indicators and calibrated PWM turns for reliable navigation.  
+---
+
+### 🚚 TransporteApp – Behavioral Patterns Transport System
+
+[![TransporteApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=TransporteApp&theme=monokai&cache_bust=1)](https://github.com/joshmessi10/TransporteApp)
+
+> 🧠 Transport management system showcasing advanced behavioral design patterns.  
+> 🔁 Uses State for shipment and trip lifecycles, and Chain of Responsibility for validation and pricing.  
+> 🧾 Template Method coordinates end-to-end purchase workflows.  
+> 🛒 Memento-based cart snapshots enabling undo/history features.
 
 ---
 ### Line-Following Robot
@@ -304,6 +243,14 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 </p>
 
 [![Cybersecurity Fundamentals](https://img.shields.io/badge/Cybersecurity%20Fundamentals-IBM-blue?style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/04fcf30b-7e75-43bc-9800-470bc6260102/public_url)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/95223105-1518-4b0f-bde3-784b6d8b18b2" alt="endpoint-security" width="150"/>
+</p>
+
+[![Endpoint Security - Cisco](https://img.shields.io/badge/Endpoint%20Security-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](#)
+
+
 
 ---
 
