@@ -215,32 +215,32 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
   <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dd6b19096b4112dafd3701a13bb8cb51cf896525" target="_blank">
     <img src="https://github.com/user-attachments/assets/aa700b37-d375-470e-b355-edadab8734d6"
          alt="DataCamp - Statement of Accomplishment"
-         width="150"/>
+         width="300"/>
   </a>
 </p>
 
-[![DataCamp - Introduction to Data Science](https://img.shields.io/badge/DataCamp-Statement%20of%20Accomplishment-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/dd6b19096b4112dafd3701a13bb8cb51cf896525)
+[![DataCamp - Introduction to Data Science](https://img.shields.io/badge/DataCamp-Introduction%20to%20Data%20Science-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/dd6b19096b4112dafd3701a13bb8cb51cf896525)
 
 
 <p align="center">
   <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/29fc8d6a64190738b510d5adb91ae950bf349462" target="_blank">
     <img src="https://github.com/user-attachments/assets/0b44a914-0d31-4549-9cdf-482bee499ee0"
          alt="DataCamp - Statement of Accomplishment"
-         width="150"/>
+         width="300"/>
   </a>
 </p>
 
-[![DataCamp - Preprocessing for Machine Learning with Python](https://img.shields.io/badge/DataCamp-Statement%20of%20Accomplishment-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/29fc8d6a64190738b510d5adb91ae950bf349462)
+[![DataCamp - Preprocessing for Machine Learning with Python](https://img.shields.io/badge/DataCamp-Preprocessing%20for%20Machine%20Learning%20with%20Python-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/29fc8d6a64190738b510d5adb91ae950bf349462)
 
 <p align="center">
   <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e1a94e5b861ab834386149d89a7e286003ae5b07" target="_blank">
     <img src="https://github.com/user-attachments/assets/f191d5c9-e23a-419d-9d23-9994526d871e"
          alt="DataCamp - Statement of Accomplishment"
-         width="150"/>
+         width="300"/>
   </a>
 </p>
 
-[![DataCamp - Introduction to Deep Learning with Keras](https://img.shields.io/badge/DataCamp-Statement%20of%20Accomplishment-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/e1a94e5b861ab834386149d89a7e286003ae5b07)
+[![DataCamp - Introduction to Deep Learning with Keras](https://img.shields.io/badge/DataCamp-Introduction%20to%20Deep%20Learning%20with%20Keras-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/e1a94e5b861ab834386149d89a7e286003ae5b07)
 
 
 
