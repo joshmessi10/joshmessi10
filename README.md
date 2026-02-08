@@ -248,8 +248,17 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
   <img src="https://github.com/user-attachments/assets/95223105-1518-4b0f-bde3-784b6d8b18b2" alt="endpoint-security" width="150"/>
 </p>
 
-[![Endpoint Security - Cisco](https://img.shields.io/badge/Endpoint%20Security-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![Endpoint Security - Cisco](https://img.shields.io/badge/Endpoint%20Security-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/fcb41f93-ae6a-4dcf-8c42-791540be8f29/public_url)
 
+<p align="center">
+  <a href="https://www.credly.com/badges/f20f8cc0-19f2-4555-a54f-0b8ac28ea097/public_url" target="_blank">
+    <img src="https://github.com/user-attachments/assets/2c37f27d-d960-4b27-8d47-a016e7edfb74"
+         alt="Cyber Threat Management - Cisco"
+         width="150"/>
+  </a>
+</p>
+
+[![Cyber Threat Management - Cisco](https://img.shields.io/badge/Cyber%20Threat%20Management-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/f20f8cc0-19f2-4555-a54f-0b8ac28ea097/public_url)
 
 
 ---
