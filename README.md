@@ -36,8 +36,7 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 ### 🧍‍♂️ ActiveBreakApp – AI-Powered Posture & Active Break System
 
-[![ActiveBreakApp](https://github-readme-stats-7xs78mfi0-joshmessi10s-projects.vercel.app/api/pin/?username=joshmessi10&repo=ActiveBreakApp&theme=prussian)](https://github.com/joshmessi10/ActiveBreakApp)
-
+[![ActiveBreakApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=ActiveBreakApp&theme=prussian&cache_bust=1)](https://github.com/joshmessi10/ActiveBreakApp)
 
 > 🧠 Electron + TensorFlow.js desktop app for real-time posture analysis using MoveNet Lightning.  
 > ⏱️ Per-second posture tracking, smart notifications, active break scheduling, and full event logging.  
