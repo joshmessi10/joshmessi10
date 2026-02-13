@@ -242,6 +242,15 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 [![DataCamp - Introduction to Deep Learning with Keras](https://img.shields.io/badge/DataCamp-Introduction%20to%20Deep%20Learning%20with%20Keras-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/e1a94e5b861ab834386149d89a7e286003ae5b07)
 
+<p align="center">
+  <a href="https://www.datacamp.com/courses/introduction-to-predictive-analytics-in-python?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage&utm_source=copylink" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6f15536c-5cea-4752-ba44-05b809d4475f"
+         alt="DataCamp - Introduction to Predictive Analytics with Python"
+         width="300"/>
+  </a>
+</p>
+
+[![DataCamp - Introduction to Predictive Analytics with Python](https://img.shields.io/badge/DataCamp-Introduction%20to%20Predictive%20Analytics%20with%20Python-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/courses/introduction-to-predictive-analytics-in-python?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage&utm_source=copylink)
 
 
 ---
