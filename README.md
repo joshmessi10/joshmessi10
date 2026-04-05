@@ -29,120 +29,197 @@
 
 
 ---
-
-# 📌 Featured Projects  
-A showcase of some of my most exciting and hands-on repositories.
+# 🚀 Featured Projects  
+A curated portfolio of my most impactful and hands-on work.
 
 ---
 
-### 🧍‍♂️ ActiveBreakApp – AI-Powered Posture System
+## 🧠 AI & Machine Learning
 
+<table>
+<tr>
+<td align="center">
+
+### 🧍‍♂️ ActiveBreakApp  
 [![ActiveBreakApp](https://opengraph.githubassets.com/1/joshmessi10/ActiveBreakApp)](https://github.com/joshmessi10/ActiveBreakApp)
 
-> 🧠 Electron + TensorFlow.js desktop app for real-time posture analysis  
-> ⏱️ Per-second tracking, smart notifications & active break scheduling  
-> 🏆 Gamified system with streaks and rewards  
-> 🔒 Local-only inference with secure role separation  
+🧠 Posture detection with TensorFlow.js  
+⏱️ Smart tracking & break system  
+🏆 Gamification & rewards  
 
----
+![Electron](https://img.shields.io/badge/Electron-000?logo=electron)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
 
-### 📘 ReservasApp – Creational Patterns System
+</td>
 
-[![ReservasApp](https://opengraph.githubassets.com/1/joshmessi10/ReservasApp)](https://github.com/joshmessi10/ReservasApp)
+<td align="center">
 
-> 🧩 Node.js reservation system using creational design patterns  
-> 🏗️ Factory, Builder, Singleton, Prototype & Abstract Factory  
-> 🚀 Modular Express architecture  
-
----
-
-### 🚚 TransporteApp – Behavioral Patterns System
-
-[![TransporteApp](https://opengraph.githubassets.com/1/joshmessi10/TransporteApp)](https://github.com/joshmessi10/TransporteApp)
-
-> 🔁 State, Chain of Responsibility & Template Method  
-> 🧾 Workflow orchestration + cart history with Memento  
-
----
-
-### 🤖 Line-Following Robot
-
-[![LineFollowingRobot](https://opengraph.githubassets.com/1/joshmessi10/LineFollowingRobot)](https://github.com/joshmessi10/LineFollowingRobot)
-
-> 🎛️ STM32 robot with real-time calibration and Qt GUI  
-
----
-
-### 📱 Coin Detector
-
+### 📱 Coin Detector  
 [![CoinDetector](https://opengraph.githubassets.com/1/joshmessi10/CoinDetector)](https://github.com/joshmessi10/CoinDetector)
 
-> 📸 Android app using OpenCV to detect Colombian coins  
-> 💰 Calculates total value in real time  
+📸 Real-time coin detection with OpenCV  
+💰 Value calculation  
+
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤖 Self-Balancing Robot
+## 🤖 Robotics & Embedded Systems
 
+<table>
+<tr>
+<td align="center">
+
+### 🤖 Self-Balancing Robot  
 [![SelfBalancingRobot](https://opengraph.githubassets.com/1/joshmessi10/SelfBalancingRobot)](https://github.com/joshmessi10/SelfBalancingRobot)
 
-> ⚖️ Arduino UNO + MPU6050 with PID control  
-> 📡 Bluetooth-based movement commands  
+⚖️ PID control with MPU6050  
+📡 Bluetooth control  
 
----
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino)
 
-### 💳 SmartWallet
+</td>
 
-[![SmartWallet](https://opengraph.githubassets.com/1/joshmessi10/SmartWallet)](https://github.com/joshmessi10/SmartWallet)
+<td align="center">
 
-> 🔐 Smart wallet with BLE, GPS tracking & anti-theft features  
-> 🌐 Includes hardware, firmware, mobile app & backend  
+### 🤖 Line-Following Robot  
+[![LineFollowingRobot](https://opengraph.githubassets.com/1/joshmessi10/LineFollowingRobot)](https://github.com/joshmessi10/LineFollowingRobot)
 
----
+🎛️ STM32 + real-time calibration  
+🖥️ Qt monitoring GUI  
 
-### 🤖 Rover
+![STM32](https://img.shields.io/badge/STM32-03234B)
+![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt)
 
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🤖 Rover  
 [![Rover](https://opengraph.githubassets.com/1/joshmessi10/Rover)](https://github.com/joshmessi10/Rover)
 
-> 🚗 ESP32 rover with Wi-Fi control & autonomous navigation  
-> 📡 Ultrasonic sensor + basic maze-solving algorithm  
+🚗 ESP32 autonomous rover  
+📡 Ultrasonic + maze solving  
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C)
+
+</td>
+
+<td align="center">
+
+### 💳 SmartWallet  
+[![SmartWallet](https://opengraph.githubassets.com/1/joshmessi10/SmartWallet)](https://github.com/joshmessi10/SmartWallet)
+
+🔐 BLE + GPS tracking  
+📱 Full-stack IoT system  
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C)
+![BLE](https://img.shields.io/badge/BLE-0082FC)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎮 Finite State Machines (FSM)
+## 🌐 Web & Software Engineering
 
+<table>
+<tr>
+<td align="center">
+
+### 📘 ReservasApp  
+[![ReservasApp](https://opengraph.githubassets.com/1/joshmessi10/ReservasApp)](https://github.com/joshmessi10/ReservasApp)
+
+🏗️ Creational design patterns  
+🚀 Express modular architecture  
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
+
+</td>
+
+<td align="center">
+
+### 🚚 TransporteApp  
+[![TransporteApp](https://opengraph.githubassets.com/1/joshmessi10/TransporteApp)](https://github.com/joshmessi10/TransporteApp)
+
+🔁 Behavioral patterns system  
+🧾 Workflow orchestration  
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🎮 FSM Simulator  
 [![FromZero](https://opengraph.githubassets.com/1/joshmessi10/FromZero)](https://github.com/joshmessi10/FromZero)
 
-> 🎯 Claw Machine Simulator built with FSM (HTML, CSS, JS)  
-> 👉 Try it live: https://joshmessi10.github.io/FromZero/
+🎯 Claw machine simulator  
+👉 Live demo available  
 
----
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
 
-### 📊 Dijkstra Pathfinding Web App
+</td>
 
+<td align="center">
+
+### 📊 Dijkstra Web App  
 [![Dijkstra-Web](https://opengraph.githubassets.com/1/joshmessi10/Dijkstra-Web)](https://github.com/joshmessi10/Dijkstra-Web)
 
-> 📈 Visualizes Dijkstra, Critical Path & graph matrices  
-> 👉 Try it live: https://joshmessi10.github.io/Dijkstra-Web/
+📈 Graph algorithms visualization  
+👉 Live demo available  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤖 Cleaning Robot Agent
+## 🧪 Simulation & Computer Science
 
+<table>
+<tr>
+<td align="center">
+
+### 🤖 Cleaning Robot Agent  
 [![CleaningRobotAgent](https://opengraph.githubassets.com/1/joshmessi10/CleaningRobotAgent)](https://github.com/joshmessi10/CleaningRobotAgent)
 
-> 🧠 Python simulation of an intelligent cleaning agent  
-> 🔁 Modes: with memory vs without memory  
-> ⚡ Energy management + ipywidgets visualization  
+🧠 Intelligent agent simulation  
+🔁 Memory vs non-memory modes  
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
 
-### 🏗️ Creational Design Patterns in JFrame
+</td>
 
+<td align="center">
+
+### 🏗️ Design Patterns (JFrame)  
 [![CreationalDesignPatternsInJFrame](https://opengraph.githubassets.com/1/joshmessi10/CreationalDesignPatternsInJFrame)](https://github.com/joshmessi10/CreationalDesignPatternsInJFrame)
 
-> ☕ Java Swing implementation of creational design patterns  
-> 📚 Includes UML diagrams and real-world transport system examples  
+☕ Java Swing patterns implementation  
+📚 UML + real-world examples  
+
+![Java](https://img.shields.io/badge/Java-007396?logo=java)
+
+</td>
+</tr>
+</table>
+
 
 ---
 ## 🛡️ Badges & Certificates
