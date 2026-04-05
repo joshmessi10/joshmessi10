@@ -30,131 +30,119 @@
 
 ---
 
-## 📌 Featured Projects
-
-A showcase of some of my most exciting and hands-on repositories. Click to explore or try the live demos!
-
-### 🧍‍♂️ ActiveBreakApp – AI-Powered Posture & Active Break System
-
-[![ActiveBreakApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=ActiveBreakApp&theme=prussian&cache_bust=1)](https://github.com/joshmessi10/ActiveBreakApp)
-
-> 🧠 Electron + TensorFlow.js desktop app for real-time posture analysis using MoveNet Lightning.  
-> ⏱️ Per-second posture tracking, smart notifications, active break scheduling, and full event logging.  
-> 🏆 Challenge progression, streak tracking, and reward-based active break mechanics.  
-> 🔒 Local-only inference, encrypted auth, and strict admin/client role separation.
+# 📌 Featured Projects  
+A showcase of some of my most exciting and hands-on repositories.
 
 ---
 
-### 📘 ReservasApp – Creational Patterns Reservation System
+### 🧍‍♂️ ActiveBreakApp – AI-Powered Posture System
 
-[![ReservasApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=ReservasApp&theme=maroongold&cache_bust=1)](https://github.com/joshmessi10/ReservasApp)
+[![ActiveBreakApp](https://opengraph.githubassets.com/1/joshmessi10/ActiveBreakApp)](https://github.com/joshmessi10/ActiveBreakApp)
 
-> 🧩 Node.js reservation system designed around creational design patterns.  
-> 🏗️ Implements Factory Method, Builder, Singleton, Prototype, and Abstract Factory.  
-> 🚀 Modular Express architecture with clear separation of controllers, services, and models.  
-> 🌐 Lightweight frontend with in-memory persistence focused on teaching design patterns.
-
----
-
-### 🚚 TransporteApp – Behavioral Patterns Transport System
-
-[![TransporteApp](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=TransporteApp&theme=ocean_dark&cache_bust=1)](https://github.com/joshmessi10/TransporteApp)
-
-> 🧠 Transport management system showcasing advanced behavioral design patterns.  
-> 🔁 Uses State for shipment and trip lifecycles, and Chain of Responsibility for validation and pricing.  
-> 🧾 Template Method coordinates end-to-end purchase workflows.  
-> 🛒 Memento-based cart snapshots enabling undo/history features.
-
----
-### Line-Following Robot
-
-[![LineFollowingRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=LineFollowingRobot&theme=neon&cache_bust=1)](https://github.com/joshmessi10/LineFollowingRobot)
-
-> 🤖 An embedded robotics project using STM32 to autonomously follow a line.  
-> 🎛️ Features real-time sensor calibration and monitoring via a Qt GUI.
-
----
-### Coin Detector
-
-[![Coin Detector](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=CoinDetector&theme=ambient_gradient&cache_bust=1)](https://github.com/joshmessi10/CoinDetector)
-
-> 📱 Android app that uses OpenCV to detect colombian coins of 50, 100, and 200 pesos in real time.
-> 
-> 📸 Calculates total value using the radius of detected coins and displays the result live on screen.
-
+> 🧠 Electron + TensorFlow.js desktop app for real-time posture analysis  
+> ⏱️ Per-second tracking, smart notifications & active break scheduling  
+> 🏆 Gamified system with streaks and rewards  
+> 🔒 Local-only inference with secure role separation  
 
 ---
 
-### Self-Balancing Robot
+### 📘 ReservasApp – Creational Patterns System
 
-[![SelfBalancingRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=SelfBalancingRobot&theme=outrun&cache_bust=1)](https://github.com/joshmessi10/SelfBalancingRobot)
+[![ReservasApp](https://opengraph.githubassets.com/1/joshmessi10/ReservasApp)](https://github.com/joshmessi10/ReservasApp)
 
-> 🤖 A two-wheeled self-balancing robot using MPU6050 and PID control with Arduino UNO.  
-> 📡 Supports real-time balance adjustment and Bluetooth-based movement commands.
-
----
-
-# SmartWallet
-
-[![SmartWallet](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=SmartWallet&theme=blueberry&cache_bust=1)](https://github.com/joshmessi10/SmartWallet)
-
-> 📱 A full-featured smart wallet system combining hardware, firmware, mobile, and cloud technologies.
-
-> 🔐 Includes security features like anti-theft alerts, GPS location tracking, and BLE connectivity.
-
-> 🌐 Project website, firmware, and mobile app included in the repository.
+> 🧩 Node.js reservation system using creational design patterns  
+> 🏗️ Factory, Builder, Singleton, Prototype & Abstract Factory  
+> 🚀 Modular Express architecture  
 
 ---
 
-### Rover
+### 🚚 TransporteApp – Behavioral Patterns System
 
-[![Rover](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Rover&theme=maroongold&cache_bust=1)](https://github.com/joshmessi10/Rover)
+[![TransporteApp](https://opengraph.githubassets.com/1/joshmessi10/TransporteApp)](https://github.com/joshmessi10/TransporteApp)
 
-> 🤖 A smart six-wheeled rover entirely controlled by an **ESP32**, capable of both **manual control via Wi-Fi** and **autonomous navigation** using an **ultrasonic sensor** mounted on a servo.   
-> 📡 Additional support includes **PID balance control** and a **basic maze-solving algorithm**.
-
----
-
-### Finite State Machines (FSM)
-
-[![FromZero](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=FromZero&theme=radical&cache_bust=1)](https://github.com/joshmessi10/FromZero)
-
-> 🚀 A Claw Machine Simulator project from scratch to showcase FSM using HTML, CSS, and JavaScript fundamentals.  
-> 👉 **[Try it live here](https://joshmessi10.github.io/FromZero/)**
+> 🔁 State, Chain of Responsibility & Template Method  
+> 🧾 Workflow orchestration + cart history with Memento  
 
 ---
 
-### Dijkstra Pathfinding & Graph Tools Web App
+### 🤖 Line-Following Robot
 
-[![Dijkstra Web App](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=Dijkstra-Web&theme=radical&cache_bust=1)](https://github.com/joshmessi10/Dijkstra-Web)
+[![LineFollowingRobot](https://opengraph.githubassets.com/1/joshmessi10/LineFollowingRobot)](https://github.com/joshmessi10/LineFollowingRobot)
 
-> 🚀 An interactive web app for visualizing **Dijkstra’s Algorithm**, **Critical Path Analysis**, and displaying **Adjacency** & **Incidence Matrices** of graphs.  
-> 👉 **[Try it live here](https://joshmessi10.github.io/Dijkstra-Web/)**
-
----
-
-# Cleaning Robot Agent
-
-[![CleaningRobot](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=CleaningRobotAgent&theme=rose_pine&cache_bust=1)](https://github.com/joshmessi10/CleaningRobotAgent)
-
-> 🤖 A Python-based simulation of a cleaning robot agent that navigates and collects debris (🍂) in a 2D grid.
-
-> 🔁 Includes two operational modes:
-- Without Memory – explores randomly with no knowledge of past moves.
-- With Memory – builds a map, avoids revisiting clean areas, and triggers deep-clean routines.
->⚡ Features energy management and a visual interface using ipywidgets.
-
+> 🎛️ STM32 robot with real-time calibration and Qt GUI  
 
 ---
 
-### Creational Design Patterns in JFrame
+### 📱 Coin Detector
 
-[![CreationalDesignPatternsInJFrame](https://github-readme-stats.vercel.app/api/pin/?username=joshmessi10&repo=CreationalDesignPatternsInJFrame&theme=transparent&cache_bust=1)](https://github.com/joshmessi10/CreationalDesignPatternsInJFrame)
+[![CoinDetector](https://opengraph.githubassets.com/1/joshmessi10/CoinDetector)](https://github.com/joshmessi10/CoinDetector)
 
+> 📸 Android app using OpenCV to detect Colombian coins  
+> 💰 Calculates total value in real time  
 
-> 🏗️ Repository showcasing practical examples of **Creational Design Patterns** (Builder, Prototype, Singleton, Factory Method, Abstract Factory) using **Java Swing (JFrame)**.  
-> 🚍 Examples are based on the analysis of a **transportation company** for **passengers and parcel/cargo delivery**, including route planning, cloning maintenance plans, and efficient vehicle management.
-> 📚 Each pattern includes descriptions, UML diagrams, and full Java implementations for hands-on learning.
+---
+
+### 🤖 Self-Balancing Robot
+
+[![SelfBalancingRobot](https://opengraph.githubassets.com/1/joshmessi10/SelfBalancingRobot)](https://github.com/joshmessi10/SelfBalancingRobot)
+
+> ⚖️ Arduino UNO + MPU6050 with PID control  
+> 📡 Bluetooth-based movement commands  
+
+---
+
+### 💳 SmartWallet
+
+[![SmartWallet](https://opengraph.githubassets.com/1/joshmessi10/SmartWallet)](https://github.com/joshmessi10/SmartWallet)
+
+> 🔐 Smart wallet with BLE, GPS tracking & anti-theft features  
+> 🌐 Includes hardware, firmware, mobile app & backend  
+
+---
+
+### 🤖 Rover
+
+[![Rover](https://opengraph.githubassets.com/1/joshmessi10/Rover)](https://github.com/joshmessi10/Rover)
+
+> 🚗 ESP32 rover with Wi-Fi control & autonomous navigation  
+> 📡 Ultrasonic sensor + basic maze-solving algorithm  
+
+---
+
+### 🎮 Finite State Machines (FSM)
+
+[![FromZero](https://opengraph.githubassets.com/1/joshmessi10/FromZero)](https://github.com/joshmessi10/FromZero)
+
+> 🎯 Claw Machine Simulator built with FSM (HTML, CSS, JS)  
+> 👉 Try it live: https://joshmessi10.github.io/FromZero/
+
+---
+
+### 📊 Dijkstra Pathfinding Web App
+
+[![Dijkstra-Web](https://opengraph.githubassets.com/1/joshmessi10/Dijkstra-Web)](https://github.com/joshmessi10/Dijkstra-Web)
+
+> 📈 Visualizes Dijkstra, Critical Path & graph matrices  
+> 👉 Try it live: https://joshmessi10.github.io/Dijkstra-Web/
+
+---
+
+### 🤖 Cleaning Robot Agent
+
+[![CleaningRobotAgent](https://opengraph.githubassets.com/1/joshmessi10/CleaningRobotAgent)](https://github.com/joshmessi10/CleaningRobotAgent)
+
+> 🧠 Python simulation of an intelligent cleaning agent  
+> 🔁 Modes: with memory vs without memory  
+> ⚡ Energy management + ipywidgets visualization  
+
+---
+
+### 🏗️ Creational Design Patterns in JFrame
+
+[![CreationalDesignPatternsInJFrame](https://opengraph.githubassets.com/1/joshmessi10/CreationalDesignPatternsInJFrame)](https://github.com/joshmessi10/CreationalDesignPatternsInJFrame)
+
+> ☕ Java Swing implementation of creational design patterns  
+> 📚 Includes UML diagrams and real-world transport system examples  
 
 ---
 ## 🛡️ Badges & Certificates
@@ -204,6 +192,26 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 [![Data Analytics Essentials](https://img.shields.io/badge/Data%20Analytics%20Essentials-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/69c20bdf-4d49-4e35-a490-53a1510d1674/public_url)
 
+<p align="center">
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/641eff9dcb855479f4881b823d6b10dfcca29eb9" target="_blank">
+    <img src="https://github.com/user-attachments/assets/bd865878-422f-49da-b003-f56c282d923d"
+         alt="DataCamp - Keras Fundamentals"
+         width="300"/>
+  </a>
+</p>
+
+[![DataCamp - Keras Fundamentals](https://img.shields.io/badge/DataCamp-Keras%20Fundamentals-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/track/641eff9dcb855479f4881b823d6b10dfcca29eb9)
+
+<p align="center">
+  <a href="https://www.datacamp.com/certificate/SQA0010340757544" target="_blank">
+    <img src="https://github.com/user-attachments/assets/fd3355ca-8846-4426-94e8-6f77918ab53c"
+         alt="DataCamp - SQL Associate"
+         width="300"/>
+  </a>
+</p>
+
+[![DataCamp - SQL Associate](https://img.shields.io/badge/DataCamp-SQL%20Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/SQA0010340757544)
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/914fe3c1-bc7e-4233-98df-fd9d90a1c0ca" alt="data-fundamentals" width="150"/>
@@ -232,6 +240,18 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 
 [![DataCamp - Preprocessing for Machine Learning with Python](https://img.shields.io/badge/DataCamp-Preprocessing%20for%20Machine%20Learning%20with%20Python-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/29fc8d6a64190738b510d5adb91ae950bf349462)
 
+
+
+<p align="center">
+  <a href="https://www.datacamp.com/courses/introduction-to-predictive-analytics-in-python?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage&utm_source=copylink" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6f15536c-5cea-4752-ba44-05b809d4475f"
+         alt="DataCamp - Introduction to Predictive Analytics with Python"
+         width="300"/>
+  </a>
+</p>
+
+[![DataCamp - Introduction to Predictive Analytics with Python](https://img.shields.io/badge/DataCamp-Introduction%20to%20Predictive%20Analytics%20with%20Python-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/courses/introduction-to-predictive-analytics-in-python?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage&utm_source=copylink)
+
 <p align="center">
   <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e1a94e5b861ab834386149d89a7e286003ae5b07" target="_blank">
     <img src="https://github.com/user-attachments/assets/f191d5c9-e23a-419d-9d23-9994526d871e"
@@ -243,14 +263,35 @@ A showcase of some of my most exciting and hands-on repositories. Click to explo
 [![DataCamp - Introduction to Deep Learning with Keras](https://img.shields.io/badge/DataCamp-Introduction%20to%20Deep%20Learning%20with%20Keras-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/e1a94e5b861ab834386149d89a7e286003ae5b07)
 
 <p align="center">
-  <a href="https://www.datacamp.com/courses/introduction-to-predictive-analytics-in-python?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage&utm_source=copylink" target="_blank">
-    <img src="https://github.com/user-attachments/assets/6f15536c-5cea-4752-ba44-05b809d4475f"
-         alt="DataCamp - Introduction to Predictive Analytics with Python"
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/44dcdd086127c883587bc2037f51e7d101805ff8" target="_blank">
+    <img src="https://github.com/user-attachments/assets/f1dba5ea-e7cd-4dc6-9170-a21a69378b3f"
+         alt="DataCamp - Advanced Deep Learning with Keras"
          width="300"/>
   </a>
 </p>
 
-[![DataCamp - Introduction to Predictive Analytics with Python](https://img.shields.io/badge/DataCamp-Introduction%20to%20Predictive%20Analytics%20with%20Python-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/courses/introduction-to-predictive-analytics-in-python?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage&utm_source=copylink)
+[![DataCamp - Advanced Deep Learning with Keras](https://img.shields.io/badge/DataCamp-Advanced%20Deep%20Learning%20with%20Keras-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/44dcdd086127c883587bc2037f51e7d101805ff8)
+
+<p align="center">
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/93445f78ddece74213c8069eefd2277158eba1f1" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4e79ebbe-33df-4d34-a9f4-0f459a974035"
+         alt="DataCamp - Image Modeling with Keras"
+         width="300"/>
+  </a>
+</p>
+
+[![DataCamp - Image Modeling with Keras](https://img.shields.io/badge/DataCamp-Image%20Modeling%20with%20Keras-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/93445f78ddece74213c8069eefd2277158eba1f1)
+
+<p align="center">
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/825118b608bfdc4319d1003d5d9c088ca48e2edc" target="_blank">
+    <img src="https://github.com/user-attachments/assets/8bff7cbd-b141-4555-a3e9-9794b6c6908b"
+         alt="DataCamp - RNNs for Language Modeling with Keras"
+         width="300"/>
+  </a>
+</p>
+
+[![DataCamp - RNNs for Language Modeling with Keras](https://img.shields.io/badge/DataCamp-RNNs%20for%20Language%20Modeling%20with%20Keras-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/825118b608bfdc4319d1003d5d9c088ca48e2edc)
+
 
 
 ---
