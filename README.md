@@ -257,10 +257,10 @@ A curated portfolio of my most impactful and hands-on work.
 ### 📊 Data Science
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a3016b55-a2bd-422b-8e39-f436c4f87f68" alt="introduction-to-data-science" width="150"/>
+  <img src="https://github.com/user-attachments/assets/b83b5ea1-1c4f-4c4c-b5da-13d52fc2c774" alt="aws-academy-data-engineering" width="150"/>
 </p>
 
-[![Introduction to Data Science](https://img.shields.io/badge/Introduction%20to%20Data%20Science-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/3884faa9-acc4-48fb-846e-6b60e1007026/public_url)
+[![AWS Data Engineering - AWS Academy Graduate](https://img.shields.io/badge/AWS%20Academy%20Graduate-Data%20Engineering-orange?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/e2483146-f8c1-46f0-be01-7cb2376cb0e8/public_url)
 
 
 <p align="center">
@@ -295,6 +295,12 @@ A curated portfolio of my most impactful and hands-on work.
 </p>
 
 [![Data Fundamentals](https://img.shields.io/badge/Data%20Fundamentals-IBM-blue?style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/3ab50044-5fc4-45b8-b4f8-8a4fbf099e4c/public_url)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a3016b55-a2bd-422b-8e39-f436c4f87f68" alt="introduction-to-data-science" width="150"/>
+</p>
+
+[![Introduction to Data Science](https://img.shields.io/badge/Introduction%20to%20Data%20Science-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/3884faa9-acc4-48fb-846e-6b60e1007026/public_url)
 
 <p align="center">
   <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dd6b19096b4112dafd3701a13bb8cb51cf896525" target="_blank">
