@@ -265,44 +265,299 @@ Highlighted certifications in Cloud Computing, Data Engineering, Artificial Inte
 ---
 ## 🛡️ Badges & Certificates
 
+---
+
 ## ☁️ Cloud & Data Engineering
 
-Building cloud-native applications, scalable infrastructure, secure networking, and modern data engineering solutions using AWS and Google Cloud Platform.
+Building cloud-native applications, scalable infrastructure, secure networking, and modern data engineering solutions using AWS and Google Cloud.
+
+---
 
 <p align="center">
-
-[![AWS Academy Graduate - Data Engineering](https://img.shields.io/badge/AWS%20Academy-Data%20Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/e2483146-f8c1-46f0-be01-7cb2376cb0e8/public_url)
-[![Google Cloud Computing Foundations](https://img.shields.io/badge/Google%20Cloud-Computing%20Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/dc1193d4-e653-4870-b130-6dd35dcc5bc8/public_url)
-
+  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
+  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
 </p>
 
 <p align="center">
 
-[![Cloud Computing Fundamentals](https://img.shields.io/badge/☁️%20Cloud-Computing%20Fundamentals-4285F4?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16451591)
-[![Infrastructure](https://img.shields.io/badge/🏗️%20Google%20Cloud-Infrastructure-0F9D58?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16453888)
+[![Cloud Computing Fundamentals](https://img.shields.io/badge/☁️%20Cloud%20Computing-Fundamentals-4285F4?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16451591)
 
+[![Infrastructure in Google Cloud](https://img.shields.io/badge/🏗️%20Google%20Cloud-Infrastructure-0F9D58?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16453888)
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
+  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
 </p>
 
 <p align="center">
 
 [![Networking & Security](https://img.shields.io/badge/🛡️%20Networking-Security-DB4437?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16499587)
+
 [![Data, ML & AI](https://img.shields.io/badge/🤖%20Data-ML%20%26%20AI-F4B400?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16501253)
 
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
+  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
+</p>
+
 <p align="center">
 
-[![Load Balancing](https://img.shields.io/badge/⚖️%20Load-Balancing-00ACC1?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16518091)
-[![Secure Network](https://img.shields.io/badge/🔒%20Secure-Network-8E24AA?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16521016)
+[![Implementing Load Balancing](https://img.shields.io/badge/⚖️%20Load-Balancing-00ACC1?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16518091)
 
+[![Secure Google Cloud Network](https://img.shields.io/badge/🔒%20Secure-Google%20Cloud%20Network-8E24AA?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16521016)
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
+  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
 </p>
 
 <p align="center">
 
 [![App Development Environment](https://img.shields.io/badge/💻%20App%20Development-Environment-1E88E5?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16518655)
-[![ML APIs](https://img.shields.io/badge/🧠%20ML-APIs-43A047?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16520274)
+
+[![Prepare Data for ML APIs](https://img.shields.io/badge/🧠%20ML-APIs-43A047?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16520274)
 
 </p>
+
+---
+
+## 📊 Data Science & Analytics
+
+Transforming raw data into meaningful insights through SQL, data analytics, statistical techniques, and machine learning preprocessing.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a3016b55-a2bd-422b-8e39-f436c4f87f68" width="150"/>
+  <img src="https://github.com/user-attachments/assets/aa700b37-d375-470e-b355-edadab8734d6" width="150"/>
+</p>
+
+<p align="center">
+
+[![Introduction to Data Science](https://img.shields.io/badge/Introduction%20to%20Data%20Science-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/3884faa9-acc4-48fb-846e-6b60e1007026/public_url)
+
+[![DataCamp - Introduction to Data Science](https://img.shields.io/badge/DataCamp-Introduction%20to%20Data%20Science-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/dd6b19096b4112dafd3701a13bb8cb51cf896525)
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0b44a914-0d31-4549-9cdf-482bee499ee0" width="150"/>
+  <img src="https://github.com/user-attachments/assets/6f15536c-5cea-4752-ba44-05b809d4475f" width="150"/>
+</p>
+
+<p align="center">
+
+[![Preprocessing for Machine Learning](https://img.shields.io/badge/Preprocessing-Machine%20Learning-34A853?style=for-the-badge)](https://www.datacamp.com/completed/statement-of-accomplishment/course/29fc8d6a64190738b510d5adb91ae950bf349462)
+
+[![Predictive Analytics with Python](https://img.shields.io/badge/Predictive%20Analytics-Python-FBBC04?style=for-the-badge)](https://www.datacamp.com/courses/introduction-to-predictive-analytics-in-python?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage&utm_source=copylink)
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+Exploring intelligent systems through machine learning, deep learning, neural networks, computer vision, and generative AI.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fdce0fda-9702-4774-86c9-ff24ecbeb108" width="150"/>
+  <img src="https://github.com/user-attachments/assets/f191d5c9-e23a-419d-9d23-9994526d871e" width="150"/>
+</p>
+
+<p align="center">
+
+[![Introduction to Modern AI](https://img.shields.io/badge/Modern%20AI-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/299bd5fa-2318-42dd-a8e2-17fe904962ff/public_url)
+
+[![Introduction to Deep Learning with Keras](https://img.shields.io/badge/Deep%20Learning-Keras-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/e1a94e5b861ab834386149d89a7e286003ae5b07)
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd865878-422f-49da-b003-f56c282d923d" width="150"/>
+  <img src="https://github.com/user-attachments/assets/f1dba5ea-e7cd-4dc6-9170-a21a69378b3f" width="150"/>
+</p>
+
+<p align="center">
+
+[![Keras Fundamentals](https://img.shields.io/badge/Keras-Fundamentals-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/track/641eff9dcb855479f4881b823d6b10dfcca29eb9)
+
+[![Advanced Deep Learning with Keras](https://img.shields.io/badge/Advanced%20Deep%20Learning-Keras-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/44dcdd086127c883587bc2037f51e7d101805ff8)
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e79ebbe-33df-4d34-a9f4-0f459a974035" width="150"/>
+  <img src="https://github.com/user-attachments/assets/8bff7cbd-b141-4555-a3e9-9794b6c6908b" width="150"/>
+</p>
+
+<p align="center">
+
+[![Image Modeling with Keras](https://img.shields.io/badge/Image%20Modeling-Keras-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/93445f78ddece74213c8069eefd2277158eba1f1)
+
+[![RNNs for Language Modeling](https://img.shields.io/badge/RNNs-Language%20Modeling-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/825118b608bfdc4319d1003d5d9c088ca48e2edc)
+
+</p>
+
+
+---
+
+## 🛡️ Cybersecurity
+
+Developing practical skills in cyber defense, endpoint protection, threat management, and network security to build resilient and secure systems.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e682d8a4-2e51-47dc-83c1-356410f612be" width="150"/>
+  <img src="https://github.com/user-attachments/assets/e00c59f5-493e-400a-a4a2-4741bb711c24" width="150"/>
+</p>
+
+<p align="center">
+
+[![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction%20to-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/d5aa03c5-dab8-4a48-a927-54a48b4c43bf/public_url)
+
+[![Network Defense](https://img.shields.io/badge/Network-Defense-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/dac68fd4-d460-4727-89e3-8d29e4e8ddc3/public_url)
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/95223105-1518-4b0f-bde3-784b6d8b18b2" width="150"/>
+  <img src="https://github.com/user-attachments/assets/2c37f27d-d960-4b27-8d47-a016e7edfb74" width="150"/>
+</p>
+
+<p align="center">
+
+[![Endpoint Security](https://img.shields.io/badge/Endpoint-Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/fcb41f93-ae6a-4dcf-8c42-791540be8f29/public_url)
+
+[![Cyber Threat Management](https://img.shields.io/badge/Cyber%20Threat-Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/f20f8cc0-19f2-4555-a54f-0b8ac28ea097/public_url)
+
+</p>
+
+---
+
+## 🌐 Computer Networks
+
+Building a solid foundation in computer networking, network devices, IP connectivity, and infrastructure configuration for modern enterprise environments.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0fb2fb15-ad9b-4763-bb37-5f7935b873e5" width="150"/>
+  <img src="https://github.com/user-attachments/assets/b3b38bfc-dd20-4caa-a6c0-a56ffb6471a7" width="150"/>
+</p>
+
+<p align="center">
+
+[![Networking Basics](https://img.shields.io/badge/Networking-Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/a54145dd-807c-4dc6-9abf-948c1428d730/public_url)
+
+[![Networking Devices & Initial Configuration](https://img.shields.io/badge/Networking-Devices%20%26%20Configuration-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/7af1937c-6478-4165-8c01-36f8f1a1f1ae/public_url)
+
+</p>
+
+---
+
+## 🔌 Embedded Systems & IoT
+
+Hands-on experience designing embedded systems, IoT solutions, firmware, and connected devices using microcontrollers, wireless communication, sensors, and backend integration.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d8cced1a-a8df-4443-b8fb-0add524c66d5" width="150"/>
+  <img src="https://github.com/user-attachments/assets/13d56e45-7362-4368-911e-67e25c0cdba3" width="150"/>
+</p>
+
+<p align="center">
+
+[![Introduction to IoT](https://img.shields.io/badge/Introduction-to%20IoT-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/e68a809b-85d9-49fa-ab5c-6f77edc95972/public_url)
+
+[![Computer Hardware Basics](https://img.shields.io/badge/Computer%20Hardware-Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/fd8cac7d-5f8e-442b-b503-a0b3d5b49587/public_url)
+
+</p>
+
+---
+
+## 💻 Software Development Fundamentals
+
+Strengthening foundations in software development, programming languages, web technologies, and computational thinking through hands-on learning.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7b42b0cb-a4a9-4283-920a-aefa17490193" width="150"/>
+  <img src="https://github.com/user-attachments/assets/379776c0-340c-4883-a25b-b8d437c74ac9" width="150"/>
+</p>
+
+<p align="center">
+
+[![Web Development Fundamentals](https://img.shields.io/badge/Web%20Development-Fundamentals-054ADA?style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/51a464aa-ef79-489a-bd4a-5183c2abbd69/public_url)
+
+[![Foundational MATLAB](https://img.shields.io/badge/Foundational-MATLAB-054ADA?style=for-the-badge&logo=MathWorks&logoColor=white)](https://www.credly.com/badges/fedce078-7621-48f7-a9fc-3717f6dd797a/public_url)
+
+</p>
+
+
+<p align="center">
+
+[![Python 101 for Data Science](https://img.shields.io/badge/Python%20101-for%20Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://courses.cognitiveclass.ai/certificates/fb3516fcac904e7c9b84e9c24d1e17a1)
+
+[![Programming Foundations JS HTML CSS](https://img.shields.io/badge/Programming%20Foundations-JS%20HTML%20CSS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.coursera.org/account/accomplishments/verify/FN7WR289DNNW)
+
+</p>
+
+---
+
+## 🚀 Technology Foundations
+
+Exploring emerging technologies, digital transformation, and interdisciplinary engineering concepts to understand the impact of technology in modern industries.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4872351d-35b4-49ad-8085-8c28180b7405" width="150"/>
+  <img src="https://github.com/user-attachments/assets/d276854b-3215-4f1a-b2d3-734d85a54882" width="150"/>
+</p>
+
+<p align="center">
+
+[![Digital Mindset](https://img.shields.io/badge/Digital-Mindset-054ADA?style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/7dd39712-f1e4-4839-b348-c098d3efd27b/public_url)
+
+[![Explore Emerging Tech](https://img.shields.io/badge/Explore-Emerging%20Tech-054ADA?style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/f1e9252f-c2be-40cc-958a-935caf79b710/public_url)
+
+</p>
+
+
+<p align="center">
+
+[![Fundamentals of Sustainability and Technology](https://img.shields.io/badge/Sustainability%20%26-Technology-054ADA?style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/92bd550f-3581-49b2-a500-36573fcd8895/public_url)
+
+</p>
+
+
+
+
 
 ---
 
