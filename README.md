@@ -30,17 +30,6 @@ Electronic Engineer • Computer Science & AI Student • Software Engineer
 
 🚀 I enjoy transforming ideas into efficient, scalable, and impactful software solutions.
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=joshmessi10&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/joshmessi10?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/joshmessi10?style=for-the-badge"/>
-
-</p>
 
 ---
 
