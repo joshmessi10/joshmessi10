@@ -224,8 +224,43 @@ A curated portfolio of my most impactful and hands-on work.
 </tr>
 </table>
 
+---
 
+# 🏆 Featured Certifications
 
+<p align="center">
+
+<a href="https://www.credly.com/badges/e2483146-f8c1-46f0-be01-7cb2376cb0e8/public_url">
+<img src="https://github.com/user-attachments/assets/b83b5ea1-1c4f-4c4c-b5da-13d52fc2c774" width="165"/>
+</a>
+
+<a href="https://www.credly.com/badges/dc1193d4-e653-4870-b130-6dd35dcc5bc8/public_url">
+<img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="165"/>
+</a>
+
+<a href="https://www.credly.com/badges/f2c34b29-7827-425a-a816-c2585806f27a/public_url">
+<img src="https://github.com/user-attachments/assets/6718c88f-cfd0-4573-84e1-194a6d1c8c33" width="165"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.credly.com/badges/69c20bdf-4d49-4e35-a490-53a1510d1674/public_url">
+<img src="https://github.com/user-attachments/assets/0f867c24-d0b2-43b0-b276-cdb1e541f778" width="165"/>
+</a>
+
+<a href="https://www.credly.com/badges/e628039c-533c-46fa-bb23-74909335989a/public_url">
+<img src="https://github.com/user-attachments/assets/d125fec4-d543-4968-8373-0888444e94a7" width="165"/>
+</a>
+
+<a href="https://www.datacamp.com/certificate/SQA0010340757544">
+<img src="https://github.com/user-attachments/assets/fd3355ca-8846-4426-94e8-6f77918ab53c" width="165"/>
+</a>
+
+</p>
+
+Highlighted certifications in Cloud Computing, Data Engineering, Artificial Intelligence, Cybersecurity, and Data Analytics, demonstrating hands-on expertise in building secure, intelligent, and scalable software solutions.
 
 ---
 ## 🛡️ Badges & Certificates
