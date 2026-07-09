@@ -1,34 +1,49 @@
-<h1 align="center">👋 Hello there! I’m <span style="color:#00E0FF">C4PT4IN CH405 🤯</span></h1>
+<h1 align="center">
+Hi there 👋 I'm Josh Sebastián López Murcia
+</h1>
+
+<h3 align="center">
+Electronic Engineer • Computer Science & AI Student • Software Engineer
+</h3>
 
 <p align="center">
-  <em>👾 Also known as – The Secret Code 👾</em>
+⚡ Also known as <b>C4PT4IN CH405</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+Electronic+Engineer+%F0%9F%A4%96;%F0%9F%A7%AB+AI+and+Computer+Science+Explorer+%F0%9F%A7%AB;%F0%9F%9A%80+IoT%2C+Robotics+%26+Automation+Expert+%F0%9F%9A%80;%F0%9F%A7%AA+Cybersec+%7C+Cloud+%7C+Data+Science+Curious+%F0%9F%A7%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E0FF&center=true&vCenter=true&width=760&lines=💻+Software+Engineer;⚙️+Backend+Developer+%7C+FastAPI+%7C+Django+%7C+React;☁️+AWS+Cloud+%26+Data+Engineering;🤖+Artificial+Intelligence+%7C+Computer+Vision+%7C+Machine+Learning;📡+IoT%2C+Embedded+Systems+%26+Robotics;📚+Electronic+Engineer+%26+Computer+Science+Student;🚀+Always+Building%2C+Always+Learning" alt="Typing SVG" />
 </p>
-
 
 ---
 
 ## 🧠 About Me
 
-🎓 I'm an **Electronic Engineer** with a deep curiosity for how things work at both the hardware and software levels.  
+🎓 **Electronic Engineer (Cum Laude)** and **Computer Science & Artificial Intelligence Student**, passionate about designing software that bridges the gap between intelligent algorithms and real-world applications.
 
-💻 Currently a **Computer Science & Artificial Intelligence Student**, constantly learning and building intelligent systems.  
+💻 Focused on **Backend Development**, **Software Architecture**, and **Cloud Computing**, building scalable web applications, APIs, automation platforms, and distributed systems.
 
-🔮 Future **Junior Cybersecurity Analyst** and **Networking Technician**, aiming to safeguard systems, optimize networks, and contribute to secure and efficient digital infrastructures.  
+☁️ Currently expanding my expertise in **AWS Cloud** and **Data Engineering**, with a strong interest in designing data-driven and cloud-native solutions.
 
-❤️ A passionate **programming enthusiast**, always looking to turn code into creative and impactful solutions.  
+🤖 Experienced in **Artificial Intelligence**, **Computer Vision**, **IoT**, **Embedded Systems**, and **Robotics**, combining hardware and software to solve complex engineering problems.
 
-🤖 Fascinated by the world of **Robotics**, **IoT**, and **Computer Vision**.
+📚 IEEE research author and lifelong learner, continuously exploring emerging technologies through hands-on projects, certifications, and open-source contributions.
 
-🛡️ Keenly interested in **Cybersecurity**, **Data Science**, and **Cloud Computing**, exploring the frontiers of digital transformation.
-
-🌐 Skilled in **web design** with hands-on experience using **React** to create dynamic and user-friendly interfaces.  
-
+🚀 I enjoy transforming ideas into efficient, scalable, and impactful software solutions.
 
 ---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=joshmessi10&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/joshmessi10?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/joshmessi10?style=for-the-badge"/>
+
+</p>
+
+---
+
 # 🚀 Featured Projects  
 A curated portfolio of my most impactful and hands-on work.
 
@@ -219,6 +234,8 @@ A curated portfolio of my most impactful and hands-on work.
 </td>
 </tr>
 </table>
+
+
 
 
 ---
