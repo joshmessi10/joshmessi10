@@ -274,63 +274,74 @@ Building cloud-native applications, scalable infrastructure, secure networking, 
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
-  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
+  <img src="https://github.com/user-attachments/assets/b83b5ea1-1c4f-4c4c-b5da-13d52fc2c774" width="150"/>
+  <img src="https://github.com/user-attachments/assets/3161ddb3-901f-4994-b51f-059155ad715e" width="150"/>
 </p>
 
 <p align="center">
 
-[![Cloud Computing Fundamentals](https://img.shields.io/badge/☁️%20Cloud%20Computing-Fundamentals-4285F4?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16451591)
+[![AWS Academy Graduate - Data Engineering](https://img.shields.io/badge/AWS%20Academy-Data%20Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/e2483146-f8c1-46f0-be01-7cb2376cb0e8/public_url)
 
-[![Infrastructure in Google Cloud](https://img.shields.io/badge/🏗️%20Google%20Cloud-Infrastructure-0F9D58?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16453888)
+[![Cloud Computing Fundamentals](https://img.shields.io/badge/Google%20Cloud-Computing%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16451591)
 
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
-  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
+  <img src="https://github.com/user-attachments/assets/05337c87-4c31-4e09-8676-9d2aea6613c5" width="150"/>
+  <img src="https://github.com/user-attachments/assets/02ff8e61-bbc6-4a40-8dcb-1576fb5a1027" width="150"/>
 </p>
 
 <p align="center">
 
-[![Networking & Security](https://img.shields.io/badge/🛡️%20Networking-Security-DB4437?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16499587)
+[![Infrastructure in Google Cloud](https://img.shields.io/badge/Google%20Cloud-Infrastructure-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16453888)
 
-[![Data, ML & AI](https://img.shields.io/badge/🤖%20Data-ML%20%26%20AI-F4B400?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16501253)
+[![Networking & Security in Google Cloud](https://img.shields.io/badge/Google%20Cloud-Networking%20%26%20Security-DB4437?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16499587)
 
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
-  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
+  <img src="https://github.com/user-attachments/assets/623f22f4-1ff4-4a93-80ce-7d035709e005" width="150"/>
+  <img src="https://github.com/user-attachments/assets/cd353bec-ac9f-4822-93b3-cc5c508fd7ce" width="150"/>
 </p>
 
 <p align="center">
 
-[![Implementing Load Balancing](https://img.shields.io/badge/⚖️%20Load-Balancing-00ACC1?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16518091)
+[![Data ML & AI in Google Cloud](https://img.shields.io/badge/Google%20Cloud-Data%20ML%20%26%20AI-F4B400?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16501253)
 
-[![Secure Google Cloud Network](https://img.shields.io/badge/🔒%20Secure-Google%20Cloud%20Network-8E24AA?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16521016)
+[![Implementing Load Balancing](https://img.shields.io/badge/Load%20Balancing-Compute%20Engine-00ACC1?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16518091)
 
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
-  <img src="https://github.com/user-attachments/assets/67c10110-3994-4231-b058-8ab45e9f8354" width="150"/>
+  <img src="https://github.com/user-attachments/assets/1b23c2bc-5e71-447f-9640-c96caa2b6efb" width="150"/>
+  <img src="https://github.com/user-attachments/assets/a04db897-eaa1-491b-a42b-156f120b7843" width="150"/>
 </p>
 
 <p align="center">
 
-[![App Development Environment](https://img.shields.io/badge/💻%20App%20Development-Environment-1E88E5?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16518655)
+[![Build a Secure Google Cloud Network](https://img.shields.io/badge/Secure-Google%20Cloud%20Network-8E24AA?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16521016)
 
-[![Prepare Data for ML APIs](https://img.shields.io/badge/🧠%20ML-APIs-43A047?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16520274)
+[![Set Up App Development Environment](https://img.shields.io/badge/App%20Development-Environment-1E88E5?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16518655)
 
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d86a8f1-b7b4-4678-8280-b373b1082dee" width="150"/>
+</p>
+
+<p align="center">
+
+[![Prepare Data for ML APIs](https://img.shields.io/badge/Prepare%20Data-ML%20APIs-43A047?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16520274)
+
+</p>
 ---
 
 ## 📊 Data Science & Analytics
@@ -854,62 +865,112 @@ Exploring emerging technologies, digital transformation, and interdisciplinary e
 [![Programming Foundations: JS, HTML & CSS - Duke University](https://img.shields.io/badge/Programming%20Foundations-JS%2C%20HTML%20%26%20CSS%20by%20Duke-blue?style=for-the-badge&logo=javascript&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/FN7WR289DNNW)
 
 
-
+---
 ## 🛠️ Technologies & Tools
 
-### 🖥️ Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+### 💻 Programming Languages
 
-### ⚙️ Frameworks & Libraries  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p align="center">
 
-### 🛠️ Hardware & Embedded Systems  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium-AC7C1A?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![TIA Portal](https://img.shields.io/badge/TIA%20Portal-0078D7?style=for-the-badge&logo=siemens&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
-### 🎮 Game Development  
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-### ☁️ Cloud Platforms & Tools  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### 💻 IDEs & Editors  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### 📊 Scientific & Data Tools  
-![MATLAB](https://img.shields.io/badge/MATLAB-F97700?style=for-the-badge&logo=matlab&logoColor=white)
-
-### 🎥 Multimedia & Streaming  
-![OBS Studio](https://img.shields.io/badge/OBS%20Studio-191919?style=for-the-badge&logo=obs-studio&logoColor=white) 
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-3E43E2?style=for-the-badge&logo=blackmagic-design&logoColor=white)
-
----
+</p>
 
 
-## 🎯 Recently...
+### 🌐 Web Development & Backend
 
-- 🤖 Software Development
-- 👾 Participating in Programming Competitions
-- 🧠 Digging deeper into image processing, Neural Networks, AI and ML
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</p>
+
+
+### 📊 Data Science & Artificial Intelligence
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+</p>
+
+
+### ☁️ Cloud Computing & Databases
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+
+</p>
+
+
+### 🔌 Embedded Systems & IoT
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bluetooth%20BLE-0082FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
+
+</p>
+
+
+### 🛠️ Engineering & Design Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white"/>
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-F37726?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/TIA%20Portal-0078D7?style=for-the-badge"/>
+
+</p>
+
+
+### ⚙️ Development Environment & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+
+</p>
+
+
+### 🎮 Other Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+
+</p>
 
 ---
 
@@ -919,8 +980,6 @@ Exploring emerging technologies, digital transformation, and interdisciplinary e
 [🔗 View on IEEE Xplore](https://ieeexplore.ieee.org/document/10334255)
 
 This paper presents the design and implementation of an Internet of Things (IoT)-based system for remote electro-cardiogram monitoring.
-
----
 
 ### 🧠 Abstract Highlights:
 
