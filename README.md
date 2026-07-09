@@ -405,6 +405,13 @@ A curated portfolio of my most impactful and hands-on work.
 ### 🛡️ Junior Cybersecurity Analyst
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/6718c88f-cfd0-4573-84e1-194a6d1c8c33" alt="junior-cybersecurity-analyst-career-path" width="150"/>
+</p>
+
+[![Junior Cybersecurity Analyst Career Path - Cisco](https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Career%20Path-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/f2c34b29-7827-425a-a816-c2585806f27a/public_url)
+
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/e682d8a4-2e51-47dc-83c1-356410f612be" alt="introduction-to-cybersecurity" width="150"/>
 </p>
 
@@ -415,6 +422,12 @@ A curated portfolio of my most impactful and hands-on work.
 </p>
 
 [![Cybersecurity Fundamentals](https://img.shields.io/badge/Cybersecurity%20Fundamentals-IBM-blue?style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/04fcf30b-7e75-43bc-9800-470bc6260102/public_url)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e00c59f5-493e-400a-a4a2-4741bb711c24" alt="network-defense" width="150"/>
+</p>
+
+[![Network Defense - Cisco](https://img.shields.io/badge/Network%20Defense-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/dac68fd4-d460-4727-89e3-8d29e4e8ddc3/public_url)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/95223105-1518-4b0f-bde3-784b6d8b18b2" alt="endpoint-security" width="150"/>
