@@ -266,6 +266,47 @@ Highlighted certifications in Cloud Computing, Data Engineering, Artificial Inte
 ## 🛡️ Badges & Certificates
 
 ---
+## ☁️ Cloud & Data Engineering
+
+Hands-on experience building cloud-native solutions, deploying applications, configuring networking, and working with modern data engineering workflows across AWS and Google Cloud Platform.
+
+<p align="center">
+
+[![AWS Academy Graduate - Data Engineering](https://img.shields.io/badge/AWS%20Academy%20Graduate-Data%20Engineering-orange?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/e2483146-f8c1-46f0-be01-7cb2376cb0e8/public_url)
+
+[![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud-Computing%20Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/dc1193d4-e653-4870-b130-6dd35dcc5bc8/public_url)
+
+</p>
+
+<p align="center">
+
+[![Cloud Computing Fundamentals](https://img.shields.io/badge/Cloud%20Computing-Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16451591)
+
+[![Infrastructure](https://img.shields.io/badge/Google%20Cloud-Infrastructure-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16453888)
+
+[![Networking & Security](https://img.shields.io/badge/Networking%20%26%20Security-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16499587)
+
+</p>
+
+<p align="center">
+
+[![Data, ML & AI](https://img.shields.io/badge/Data%2C%20ML%20%26%20AI-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16501253)
+
+[![Load Balancing](https://img.shields.io/badge/Load%20Balancing-Compute%20Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16518091)
+
+[![Secure Network](https://img.shields.io/badge/Secure%20Network-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16521016)
+
+</p>
+
+<p align="center">
+
+[![App Development Environment](https://img.shields.io/badge/App%20Development-Environment-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16518655)
+
+[![ML APIs](https://img.shields.io/badge/ML%20APIs-Data%20Preparation-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/a12115e7-c6e7-407d-8937-e442202e9191/badges/16520274)
+
+</p>
+
+---
 
 ### ☁️ Cloud Computing
 
